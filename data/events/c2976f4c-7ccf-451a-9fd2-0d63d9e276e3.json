@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "f1559937-e010-4d14-9ad6-a262639acb71": {
+      "label": "Interview with Griselda Rodriguez",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://ia600305.us.archive.org/30/items/final-audio-griselda-r-may-012025/FINAL%20AUDIO_Griselda_R_May012025.wav",
+      "duration": 4457
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Interview with Griselda Rodriguez",
+  "created_at": "2025-10-08T20:51:57.660Z",
+  "created_by": "UTEnvironmentalHistories",
+  "updated_at": "2025-10-08T20:51:57.660Z",
+  "updated_by": "UTEnvironmentalHistories"
+}
