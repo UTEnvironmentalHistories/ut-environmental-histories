@@ -1,5 +1,5879 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Today is May 1st, 2025. My name is Megan Poole, and I'm interviewing Griselda Rodriguez. We’re at her home in Montopolis. Thank you, Ms. Rodriguez, for agreeing to this interview. The first question I want to ask is really just about yourself, where you’ve lived, how long you’ve lived here, and how maybe you’ve seen this place change over time?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Change",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "016f43f7-a56a-4740-bfc5-6d65fbbdb95c"
+    },
+    {
+      "start_time": 28,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I’ve lived in the Montopolis community since 1970, mostly around the area of the local Catholic Church, which is Dolores Catholic Church. We lived right next door to it. And then I grew up in the street right in front of it, and now I’m approximately five blocks from it. So that’s been my home church. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "4f54b643-b605-4299-b8f9-2e5c2366c984"
+    },
+    {
+      "start_time": 53,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I first married, I lived in East Austin, near off of Garden Street. I lived there for about four years, and I have very fond memories of that neighborhood as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "6c928d84-eb89-4fb8-9df1-544418b32b7d"
+    },
+    {
+      "start_time": 71,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And you mentioned going to school around the Catholic Church as well. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "9160b715-004b-4f2b-b5a5-62da0e7c8b95"
+    },
+    {
+      "start_time": 75,
+      "end_time": 98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. At that time, in 1970, there was Dolores Catholic School, which is now the Montopolis Recreation Center. And I went there for two years, my fourth grade and my fifth grade year. And at that time, the Catholic school was closing, so I transferred to the Del Valle School System. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "b1b9dbbf-67ff-4bf3-a52e-ede1d730b32b"
+    },
+    {
+      "start_time": 99,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What would you say is the most important thing about Montopolis? What makes Montopolis unique?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "a797fce2-fee8-417b-bb64-0503d1dfe970"
+    },
+    {
+      "start_time": 107,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I really feel that history is very important, and there are a lot of historical families who, without their sweat and labor and experiences, a community wouldn’t be created and advanced. Unfortunately, though, sometimes that goes unrecognized. But [the community in Montopolis] has that sense of community because of it, nevertheless."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "3577820c-b0e2-4e5a-a275-7a0f4d60f059"
+    },
+    {
+      "start_time": 147,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You were how old when you came to Montopolis? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "6aa3bd71-5f53-4119-bc0a-e9e38cad0bf4"
+    },
+    {
+      "start_time": 150,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nine years old. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "ed352c0f-2677-446b-8569-c14cba045042"
+    },
+    {
+      "start_time": 152,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How have. . . . and you're how old now?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "57b812e2-b546-4609-ae26-8ad7efa18db0"
+    },
+    {
+      "start_time": 154,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am 64."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "deef803b-e21e-4ac2-b9b2-c8350800c859"
+    },
+    {
+      "start_time": 156,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So how have you seen Montopolis change over your lifetime?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "19611843-7585-437b-a2dc-f9c7a2ee6fa7"
+    },
+    {
+      "start_time": 160,
+      "end_time": 199,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Definitely a lot of gentrification. We would not see many Anglo-White Americans on the east side of [Interstate 35]. And if they do, you would hear comments like, “We don’t go to that side. There’s a lot of crime. It’s just an undesirable neighborhood. You know, there’s nothing good that comes out of there.” I have repeatedly, over the years, been asked, “Why do you still live there?”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "c23906af-0ee5-4f65-8834-e4de7b004acd"
+    },
+    {
+      "start_time": 200,
+      "end_time": 202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do you say? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "f3984bd7-edd3-44e6-985c-9aff8abce623"
+    },
+    {
+      "start_time": 203,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I say, “Because everything that I’ve always needed in [life and] in love and have great value for is right here.” Primarily the church that has seen me grow up and has given me the values that I have. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "4de00477-7a4c-479c-8bfb-1e9d8307fdc0"
+    },
+    {
+      "start_time": 221,
+      "end_time": 233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My parents live five blocks from me. There were three or four of my siblings that lived close by here. I actually had two siblings live across the street from me. So our kids grew up together."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "4347f22b-b6c4-4a92-95b1-54dd57171731"
+    },
+    {
+      "start_time": 234,
+      "end_time": 263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Our kids] actually got to choose whose house they ate dinner at. And so at any given point, my son would say, [all] my kids would say, “Oh, I already had dinner at Aunt Isabel's house,” or,  “I already had dinner at Tia Nidia’s house.” Or because they were smart enough to go from home to home and see who had the better dinner that they liked, and that’s where they would eat. So talk about, like, “Who gets to do that?!” (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "b6e489d6-d311-49d3-8899-8f8913b13a52"
+    },
+    {
+      "start_time": 265,
+      "end_time": 268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tell me about the role of the church in the neighborhood."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "f2a1d156-18f0-4e79-8619-c441f5229975"
+    },
+    {
+      "start_time": 269,
+      "end_time": 314,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The role of the church has been very instrumental in my activism in the community and in the city. We had a priest, John Korcsmar, who was a priest here for approximately 30 years at Dolores Catholic School. And he believed a lot in justice. We were part of Austin Interfaith back in the ‘80s, ‘90s, up until he left basically. And he has always been a champion of fairness, equality through accountability."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "b63e04b2-ed00-4cad-bc79-7313f07bbd03"
+    },
+    {
+      "start_time": 317,
+      "end_time": 338,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You were telling me that the values you learned from your faith include equality, justice, fairness through accountability. Do you think others in the neighborhood and other church members uphold those same values? Or do you think that was something specific to the community you grew up in or the family you grew up in? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "7a7b29a1-222e-45ec-9b1a-5e976cf2774d"
+    },
+    {
+      "start_time": 339,
+      "end_time": 347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it's mixed. Going door to door, speaking with neighbors in the community, I was able to see a little bit of everything. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "541f6713-ade5-4979-8061-b76d92a880ac"
+    },
+    {
+      "start_time": 348,
+      "end_time": 381,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There were some people who actually were shocked that I was active in what they considered “politics,” because we would hold accountability sessions with the police department, with the City Council, with state representatives, [with] whoever we felt we needed to hold accountable and answer for any issues or concerns we had. You know, we would make it a point to hold those accountability sessions. So some people considered that “political” work. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "8cd83966-1d07-4bc2-84b7-afe5e3b3a56b"
+    },
+    {
+      "start_time": 382,
+      "end_time": 409,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And [people] didn't understand how, if I was part of the church and active in my church and provided service in my church, how I could also be involved in what they consider “politics.” Because, they consider politicians to be liars and corrupt and stuff like that. And why was I being involved in that if I was in the church community, providing service to the community? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "d0078f69-d389-48bb-bbb1-cc97dd00ae6c"
+    },
+    {
+      "start_time": 410,
+      "end_time": 457,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I would try to explain to them how historical figures, religious historical figures in the past, whether white, Hispanic, Black, have had major civil rights changes, impacts, you know? They have suffered, have even gone to death, in fighting for liberty and justice for all, basically. Martin Luther King [in the U.S.], in Mexico we had Miguel Hidalgo, you name it. We’ve had historical figures throughout the centuries who have been both part of religious [communities] and, in that sense, fought for equality."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Collective",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "223e0ea6-b332-4b40-8c59-30bbc0309bfe"
+    },
+    {
+      "start_time": 459,
+      "end_time": 472,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you feel like, for you, those convictions were a calling? Did you feel called to the activist work? Or did you just think it was a no brainer that of course, you would stand up for your community and hold decisions? (cross talk)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "1ddeaa75-3c4e-4f28-87a6-e5157935c630"
+    },
+    {
+      "start_time": 473,
+      "end_time": 480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was a no brainer. Like I said, I feel like it just goes hand in hand. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "a521bd71-ad46-4c4d-af6b-edc2f6fc3dbb"
+    },
+    {
+      "start_time": 481,
+      "end_time": 495,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When you are true to your values, you apply them everywhere. It’s kind of like when they say you shouldn’t just pray or think about God when you're in need—you should think about God and pray all the time, in good and in bad. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "4cf68588-871a-4a83-9ee1-02d7f16eaaaa"
+    },
+    {
+      "start_time": 496,
+      "end_time": 501,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[And so], there’s no division and there's no separation [between activism and faith]. That’s a way of life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "8a5ff1d9-d44e-4b06-951d-cced07a85922"
+    },
+    {
+      "start_time": 503,
+      "end_time": 521,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Getting back to Montopolis, you mentioned gentrification. I want to know what you think are the greatest challenges for Montopolis currently. Would you say it is still gentrification? When you look over time, do you see different challenges for the neighborhood at different historical moments? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        }
+      ],
+      "uuid": "d1e9cb78-ad59-4fcc-8730-0e18437257cd"
+    },
+    {
+      "start_time": 523,
+      "end_time": 571,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The challenge now is the loss of community and the loss of the neighborhood. We were, at one point, asking for fundamental needs for the community that everyone in our community wants: safe streets, safe sidewalks, crosswalks for our kids, going to the library, going to schools, and baseball, recreational sports activities for kids. There’s a lot of need for that that I feel is still not tended. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Change",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "ceda3573-24d8-4438-be15-6aced58de300"
+    },
+    {
+      "start_time": 572,
+      "end_time": 608,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because personally, I feel that our politicians are more concerned about the developers and the money than they are about the residents who have been here historically, through thick and thin. We’re not coming in to buy cheap and then resell and make money and then go on. We are here to stay because we have an interest in building community, being in that community, and seeing it grow, and leaving something for our children."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "ccdf5993-795c-4ef3-9a2f-0bf8ad3696ce"
+    },
+    {
+      "start_time": 610,
+      "end_time": 619,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Are you worried about the area at all in terms of environment or climate change, or has that not been the primary concern?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Env't Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "04e78b25-0cba-48cd-a98a-dfbcfe744bdf"
+    },
+    {
+      "start_time": 620,
+      "end_time": 622,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am worried about that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Env't Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "4f483608-62a3-4093-ae26-f321ef9f05ea"
+    },
+    {
+      "start_time": 623,
+      "end_time": 654,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With all the building that is going on, is anyone paying attention? Not only to the hazards around the construction, but are we replanting trees as we're cutting them down? Are we building in the most sensible way, planning for our future instead of just, “Let's build it fast. Let's make some money, and let's move out of here.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Env't Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "6ef3a393-d6a5-413e-a96e-5d88f1476523"
+    },
+    {
+      "start_time": 656,
+      "end_time": 677,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I have a few maps here, and Montopolis may be a little south of the maps. But if you're thinking about—you mentioned the church—if you think about landmarks, creeks, parks, what would you say are some of the most important places to you in the area?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "405ded19-b68c-4981-90e9-4efd06c5576b"
+    },
+    {
+      "start_time": 678,
+      "end_time": 682,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, like you said, the church."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "0c981612-83af-448c-a062-03c1ccbcedf1"
+    },
+    {
+      "start_time": 683,
+      "end_time": 707,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We were finally able to build baseball fields at the Roy Guerrero Park not too long ago. So that's important for family gathering and for recreational purposes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "bf11a988-de65-404c-a108-45776c34a09e"
+    },
+    {
+      "start_time": 698,
+      "end_time": 719,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The] Montopolis Recreation Center, which again, has been around since 1973-74 maybe, and it was just recently renovated in the past five years. And so that, again, is important for our youth to have a safe hangout. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "15fd9a87-5423-4121-af2a-056782b73756"
+    },
+    {
+      "start_time": 720,
+      "end_time": 754,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is the library, the Ruiz Library, as well, which provides a lot of service so that our kids don’t have to get on a bus or walk a lot of blocks or get on a bike or anything like that. And it's here in the community. So I appreciate that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "455f16ee-7353-4a25-bd36-2ca7a2f05553"
+    },
+    {
+      "start_time": 745,
+      "end_time": 767,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These maps really show bodies of water and how many creeks and tributaries run through Austin. Do you live by any creeks or springs? Do you visit any bodies of water frequently? What's your relationship to water—natural water—in the area?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "9b32c77c-783d-4df4-9008-f499134725bd"
+    },
+    {
+      "start_time": 768,
+      "end_time": 787,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We’ve taken our grandchildren fishing at Mueller Park, and we have fun there with them looking at the ducks. I did catch a little perch, which was big for me. (laughter) "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "b0455041-086d-4a74-98f9-8637274e9c45"
+    },
+    {
+      "start_time": 788,
+      "end_time": 795,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And those are valuable moments for my husband and I—to be able to do stuff like that with our grandkids."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "7e60cbfe-208e-4fba-936a-79334d7eaef9"
+    },
+    {
+      "start_time": 796,
+      "end_time": 809,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Historically, when I was young, on a rare occasion, very rare occasion, we would go under the Montopolis Bridge, which is the Colorado River."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "738f3491-9bd5-4ca1-a433-45e52cbc19e8"
+    },
+    {
+      "start_time": 810,
+      "end_time": 828,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "However, there were, around that time, a lot of drownings, because at any given point they would open the floodgates up here without notification. And so you would hear of drownings. So my parents didn't consider that necessarily a safe place."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Collective",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "ede7c9b1-aff6-47f7-ac85-600471e0aca9"
+    },
+    {
+      "start_time": 829,
+      "end_time": 857,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[But] for people who, again, either don't have the means, transportation-wise, money-wise, to pay to go to Barton Springs or anywhere else. . . and this was before even neighborhood pools were a thing. There were several people that drowned right under the Montopolis Bridge. Like I said, I do remember my parents taking us on a rare occasion there, but it was just a very unsafe area."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "c8b5bf08-966f-4dc1-ab4d-4848e74a9a17"
+    },
+    {
+      "start_time": 858,
+      "end_time": 867,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We like walking around the bike and hike trail. It's a beautiful area as well. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "154b1477-174b-454b-b874-8b7650676074"
+    },
+    {
+      "start_time": 868,
+      "end_time": 890,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The other thing that we used to love to do was go to Barton Springs and see the ducks and the swans, which I don't think you see [anymore]. Definitely no swans, and I don't know if there's any ducks. I'm not saying anything against dogs, but you see dogs, and you see a lot of canoeing, a lot of paddling. . . . (laughter) "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "4bff059d-1a8e-48d5-9848-30f8b6b04180"
+    },
+    {
+      "start_time": 891,
+      "end_time": 896,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's just not the same. It's just not the same."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        }
+      ],
+      "uuid": "8a370c12-1aa0-4ff1-bab7-451fde22ded3"
+    },
+    {
+      "start_time": 897,
+      "end_time": 905,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So let's talk about the Colorado River and Montopolis Bridge first. So when they would open the floodgates, obviously the water would get quite high?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "6d94db6d-e4bb-4f80-8e2d-4caa2fead440"
+    },
+    {
+      "start_time": 906,
+      "end_time": 907,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very fast. [cross-talk]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "2f53ba4b-23b0-46c9-bfcd-41beaddf2869"
+    },
+    {
+      "start_time": 908,
+      "end_time": 912,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was it? What were water levels like when you all would just go recreationally?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "0d072a9c-5cdd-4e67-8230-56d001b0fb3a"
+    },
+    {
+      "start_time": 913,
+      "end_time": 930,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There were ways for you to go in, to different depths, as far as you know, to your ankles, to your knees. You could, at times, if the water was low enough, even swim across it from one end to the other end—sideways, not the long ways. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "4dad7c82-323d-4b91-80c4-8926d0d04bcc"
+    },
+    {
+      "start_time": 931,
+      "end_time": 949,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But like I said, our parents just deemed that very, very unsafe because of the drownings that happened there. And I never understood why there was no sort of notification alarm system or whatever for the floodgates. They would just open it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "d2518f45-4675-4fdc-b923-6d636b99cea6"
+    },
+    {
+      "start_time": 950,
+      "end_time": 994,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Currently, there is a place called the . . . What is it called? The Montopolis Beach, I think. Some people call it Hidden Beach or Montopolis Beach, and it's set on. . . . How do you call it? It's just a man-made area that people made, right behind them on the Montopolis Little League area. And it's become a real popular place, because I guess people are looking for those more natural states, where they're not overtaken by dogs, they're not overtaken by the canoers, by the paddlers, and so... "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "eaae5c49-6306-4ef6-92e4-d7cbe4f30ee7"
+    },
+    {
+      "start_time": 995,
+      "end_time": 1023,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But again, it's one of those things where there's no lifeguards. The city has nothing to do with that. People just made that their own little beach area. But at any given point, if the floodgates were to be open, you know . . . I don't know if there's been any serious drownings there. I've heard of maybe, like one or two, but that's all I've heard about that area as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "4860e1a9-28b9-496e-b08e-e1f50cf7be79"
+    },
+    {
+      "start_time": 1024,
+      "end_time": 1028,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So when your parents would take you growing up, were y'all going to swim, fish?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "5af1aa64-283e-4e65-bf64-50fb8e5d93ce"
+    },
+    {
+      "start_time": 1029,
+      "end_time": 1040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, mostly just to wait in the water and get our feet wet. Mostly because, again, just the safety issue of it, my parents were very concerned, and just basically to get our feet wet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "a6c207ad-78ca-4fc2-821d-f54ddc00fe87"
+    },
+    {
+      "start_time": 1041,
+      "end_time": 1044,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you remember seeing fish, turtles, birds, wildlife, what's your [memory]? (cross talk)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "891ca836-4f11-469a-b336-c6b6babf9ac5"
+    },
+    {
+      "start_time": 1045,
+      "end_time": 1062,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Turtles, birds. At one point, there were a lot of those parakeets and parrots around here, like you would see them flying. I haven't seen those flying in a long, long time, but they were like, all over the place. (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "1d2dc7c6-ccc8-47c3-89a6-cface1943c13"
+    },
+    {
+      "start_time": 1063,
+      "end_time": 1068,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you feel like you remember certain wildlife then that you don't see in that area now?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "4dd8ef6d-a819-46ed-8e75-bbfecdf54577"
+    },
+    {
+      "start_time": 1069,
+      "end_time": 1088,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ducks, I mean, definitely ducks. Like I said, further down towards Barton Springs, we would love to go see those swans that were over there, the larger ones. But the frogs, I don't even think, you know, like they were all over the place. You could hear them, you could see them, even on Town Lake."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "475ed29d-f12a-44d3-aa2e-62d5891446ed"
+    },
+    {
+      "start_time": 1089,
+      "end_time": 1105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't know if you're familiar with that algae that's been growing below Barton Springs in that waterway. So now it's not only unhealthy for individuals, but unhealthy for dogs, because dogs have actually died from it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "5214c8a2-d717-484c-90e8-755270c1d8ad"
+    },
+    {
+      "start_time": 1107,
+      "end_time": 1113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Talk to me about how Barton Springs has changed over time. What was it like when you were a kid?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "8527e427-d4cf-4727-b8aa-a053363643d7"
+    },
+    {
+      "start_time": 1114,
+      "end_time": 1132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was a family hangout, you know? We had—we have the most family related memories of going to Barton Springs and to Zilker Park."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "15e4650f-c6a2-440d-b1fd-614b131c89dc"
+    },
+    {
+      "start_time": 1133,
+      "end_time": 1175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it was a lot of fun just being in like a natural body of water...We weren't concerned then about any runoffs. We weren't concerned about any chemicals. We weren't concerned about any of that. But it seems like nowadays, you're constantly hearing that, “They've had to shut down this. They've had to shut down that, because of that algae growing, because of run offs from construction further up.” And it's just, it's just sad that you can't enjoy things like that. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "6fa0d101-1729-4b10-9e84-574c3fc7e80f"
+    },
+    {
+      "start_time": 1176,
+      "end_time": 1206,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was concerned with this golf course here. It's part of the. . . . I can't remember what it's called, but it's part of the ACC campus there. There's a golf course there, and they introduced some sort of recycled water. But it's not potable water, so it's not drinking water, but it was partly recycled water to water the area. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "ac3f7eef-6894-47fe-a837-080411c3ec38"
+    },
+    {
+      "start_time": 1207,
+      "end_time": 1234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I was concerned about that, because people who don't know that could potentially just see the water, the sprinkler system, whatever—and get wet or try to drink some of the water. And what kind of notification is there letting people know that it's not potable water? [So that people can actually know that it is not safe], either for your skin or to drink it, or anything like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "c8971157-059d-4be9-b603-387715c9cff2"
+    },
+    {
+      "start_time": 1235,
+      "end_time": 1251,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you think you've noticed…. If you think about Barton Springs, this area here, Colorado River [area], do you remember soil [or] bank conditions being different? Watercolor, temperature, trees, vegetation?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "0f3052ea-a45d-4b1d-be66-bdc28395a7f1"
+    },
+    {
+      "start_time": 1252,
+      "end_time": 1266,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The vegetation—we would admire those elephant ear plants. Oh, there they were gorgeous, beautiful, all along Town Lake area, just beautiful. And we would always love to go walk and admire the vegetation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        },
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "a513ae82-a3d2-42de-aa7f-771eceba8959"
+    },
+    {
+      "start_time": 1267,
+      "end_time": 1276,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's just not as rich. It doesn't seem like the soil is as rich…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "5d7059cb-ee66-4692-a4d5-97f84c8a5774"
+    },
+    {
+      "start_time": 1277,
+      "end_time": 1296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And again, I don't know if it's just chemicals that are sprayed on, or, I'm not sure what, but you can tell the difference in the soil. You can tell the difference in the vegetation. And the difference in the wildlife—the lack of it, actually, now—all along the banks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "f9ae7d65-28ae-4fb6-bbb8-32544d6b2e91"
+    },
+    {
+      "start_time": 1297,
+      "end_time": 1310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And you mentioned [when] opening the floodgates, water would get quite high. Do you remember the impact of flooding over the bank? Do you remember floods in the neighborhood? Has flooding been an issue?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "5f5f27e6-b3b5-4d3c-9c12-fc8dbd93647c"
+    },
+    {
+      "start_time": 1311,
+      "end_time": 1325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, no. We had one flooding incident in the whole time I've been here in Montopolis, here on our street. And I think that had more to do with just the bad drainage system."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "efa183be-cd3c-41c7-94b4-d58b55e06e24"
+    },
+    {
+      "start_time": 1326,
+      "end_time": 1328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[When was this flood?] (cross talk)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "12ff5cde-ab52-460d-884e-259874dda6f6"
+    },
+    {
+      "start_time": 1329,
+      "end_time": 1338,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That would have been probably about, I would say, about 10 years ago. Yeah, that was the first time I had ever seen our street really flooded."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "ebf44966-5e88-4226-8385-b3083758ab54"
+    },
+    {
+      "start_time": 1339,
+      "end_time": 1360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I was worried, and I was telling my husband, “Could we really get [flooded]?” He's like, “No, no, no.” And he goes, “Don't worry about the Colorado River. We’re too high, too high up. And there's no way that the water could ever get that high and then come over and whatever.” I trust my husband to know a little bit more about that. (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "57713b69-3f31-4775-92f3-6d27c0472ae0"
+    },
+    {
+      "start_time": 1361,
+      "end_time": 1393,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How would you define your relationship to water and land here in the area or Austin more generally? Do you feel like you have a certain relationship to the environment? Or did your parents or grandparents teach you a certain way of being in relation to land, in a way that shaped who you are? Or would you say it's been more of an important foundation for the community, but you've held more closely to community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "45062f51-5e1e-478c-95e9-59a379d6b93f"
+    },
+    {
+      "start_time": 1394,
+      "end_time": 1411,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ". . . . A more simple way of life held its own memorable moments growing up. And I'm talking about . . . . (pause)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "e5a1653e-4f88-4ab1-b470-6120010b3378"
+    },
+    {
+      "start_time": 1412,
+      "end_time": 1436,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We would do what my parents would call just “exploration driving,” where my parents would say, “Get in the car.” My mom would pack up some tacos or some sandwiches or whatever, and we would take off driving. And if we saw an area with a small creek or something, we didn't think twice about going in and enjoying the afternoon. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "149506f5-5ad2-490f-8ef7-ab442387b4e7"
+    },
+    {
+      "start_time": 1437,
+      "end_time": 1465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And there were no fences, there was no preoccupation then about chemicals in the water. It was just a simple, free kind of way of growing up and enjoying nature, enjoying the beauty of the natural elements around you. And as a family, we have very dear memories of that. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "0d14d59a-cba8-4e7f-a5eb-04dca5ff1ea0"
+    },
+    {
+      "start_time": 1466,
+      "end_time": 1473,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We would go and see armadillos. And I don't even know if any of my grandkids have seen a live armadillo. (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "0abf02f5-5e02-4098-b16b-95259dddccee"
+    },
+    {
+      "start_time": 1464,
+      "end_time": 1483,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We would see armadillos. We would see all kinds of different things that you don't see that often anymore. And we have really good, vivid memories."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "9329e571-45e1-4555-9655-a048abb62970"
+    },
+    {
+      "start_time": 1484,
+      "end_time": 1494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When we talk about doing stuff like that, my grandkids will ask me, “Well, how come we don't do stuff like [that]?” Well, everything's fenced in. You have to worry about people shooting you if you trespass. (laughter) "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "6c1bd69e-4a21-486c-b395-d2f5de2dbbd2"
+    },
+    {
+      "start_time": 1495,
+      "end_time": 1513,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then you have to worry about chemical runoffs. And it's just... It's not like nature is there for you to really enjoy anymore. It just seems like it's for some—for a few—but not for everyone to enjoy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "1538015a-8001-40db-9b5d-2753a12777e6"
+    },
+    {
+      "start_time": 1514,
+      "end_time": 1516,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When do you think that changed?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Change",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "e7a7cdd7-6fbd-4ec8-b5b3-705d10e6726b"
+    },
+    {
+      "start_time": 1517,
+      "end_time": 1526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I feel like it changed maybe in the ‘80s-90s. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Change",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "d30088a7-b1ce-4ad0-ad6d-587c50a12af0"
+    },
+    {
+      "start_time": 1529,
+      "end_time": 1564,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Austin was historically known for having a City Council that did not want to see growth. And they really opposed growth, and it was a different way of life. Once that opened up in the early ‘90s, I believe, once that started opening up, once they changed that mentality and opened the doors, it just seemed like we weren't ready with an infrastructure for the rapid growth that we saw. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Change",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "b8ea509f-b447-410e-9c6b-4a1d1f4db103"
+    },
+    {
+      "start_time": 1565,
+      "end_time": 1587,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it seems—I've said this to several people who have been here for a long time like I have—it seems like it's catered more, again, for developers and for outsiders than for the local residents who have been here and want to stay here. They don't want to go anywhere else."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "4161017e-99e8-4a64-b3a5-93291adbbb9e"
+    },
+    {
+      "start_time": 1588,
+      "end_time": 1601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Have you spent time thinking about how Austin could have grown otherwise in ways that were more equitable and careful?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Change",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "8fd4e5a1-df24-4469-a720-a592a1f7ed83"
+    },
+    {
+      "start_time": 1602,
+      "end_time": 1621,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Again, just a more planned, a better planned way with better infrastructure and thought to all of its citizens, not just a few."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "371ab63e-009f-440d-9c30-5eb1f3520bdd"
+    },
+    {
+      "start_time": 1622,
+      "end_time": 1643,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So the Oracle Building is right by Pleasant Valley. And what's the name of that other street? I can't remember the name of the other street, but they tore down a whole apartment area for low income residents to build Oracle there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "298d1365-88d3-4168-8542-f0c915ecd442"
+    },
+    {
+      "start_time": 1644,
+      "end_time": 1672,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The people fought it and fought it and fought it. They didn't get anywhere. They got moved out of there. Now Oracle is thinking about closing its doors… After building that massive building, and running [out] all those people that had been there for years and years and years who would have had a hard time finding other affordable housing. And now they're thinking about closing, and then they'll be closing, I believe, within the next five years. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "6bc705a6-e014-495d-b9f5-3bbeeacfd6a2"
+    },
+    {
+      "start_time": 1673,
+      "end_time": 1681,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So what happened to all those residents, and now what's going to happen to that massive building that they built there?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "fa79d03c-747f-45a1-a06c-d1d4ab15dd83"
+    },
+    {
+      "start_time": 1682,
+      "end_time": 1722,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so one of the things I've heard is that there were a lot of developers who came in questioning why affordable housing and low income people lived around some of those beautiful views towards Town Lake, saying “Why did they? Why did they have a right to be there, being that it was affordable housing and low income housing?” But it's like I just stated a minute ago, why can't beauty be enjoyed by all? Why is it just a few that get to enjoy all that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "479abb2c-388e-44ac-946f-1de87cd52afc"
+    },
+    {
+      "start_time": 1726,
+      "end_time": 1732,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you have an idea—like the Oracle building—do you know where those low income residents went?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "11847b3c-b167-4dd4-ad3e-729248726ce8"
+    },
+    {
+      "start_time": 1733,
+      "end_time": 1760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Again, this is what I've heard from, what I've read, and in talking to a lot of people, including a lot of residents here in Montopolis—a lot of the people have moved on to Lockhart, Bastrop, Buda, Kyle, Uhland, Dale… all those small communities."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "fcb924c4-98e3-42b7-9996-971a442da625"
+    },
+    {
+      "start_time": 1761,
+      "end_time": 1778,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know, personally, a lot of people who have moved out. And it's all tied to development, because a lot of people have been taxed out of their homes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "e8cda93a-5833-4b26-bd71-5587a36a9b6c"
+    },
+    {
+      "start_time": 1779,
+      "end_time": 1813,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of the major things when I was going door to door and trying to get people involved, they would say, “I don't care. I don't want to know. My family's been here. We already own this house. We've been here forever, and so I'm not worried about it.” And these were people, mostly, who were older than me, on a more fixed income basis. So I was concerned about them, because I felt like they really didn't know what was coming. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "3c238173-d645-49c4-a11c-1da933042483"
+    },
+    {
+      "start_time": 1814,
+      "end_time": 1842,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I would actually be blunt and say, “I'm young, I'm still working, and I'm concerned. I'm concerned, not just for me. I'm concerned about you. Just because you own your family and your home and your family's been here forever doesn't mean you're going to be able to keep it. Especially if somebody wants the land, they're going to take it from you. But you're going to be taxed out here pretty soon, and you need to be concerned about that.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "456cac9d-18c1-4a37-92af-e6e3ef880a95"
+    },
+    {
+      "start_time": 1843,
+      "end_time": 1856,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And sadly, and again, I would get comments like, \"I don't want to get involved in politics.” Or, “How can you be involved in politics when you're with a church? I'm not worried about it because my family already owns the house.” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "1155e997-af77-44a0-86aa-a669a82e953f"
+    },
+    {
+      "start_time": 1857,
+      "end_time": 1870,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Most of those people are gone now, sadly to say. There are very few original families that are still here in this area."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "aef0f45f-1d18-48d1-86bd-9c8594150da7"
+    },
+    {
+      "start_time": 1871,
+      "end_time": 1879,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tell me more about what you just said, “If someone wants the land, they'll take it from you.” How have you seen that, in your experience?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "8ae714ae-262d-4e65-a8d1-7c3e9bbe873e"
+    },
+    {
+      "start_time": 1880,
+      "end_time": 1886,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(laughter) I've seen—the first major experience that I saw...."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "cab6586e-4d4b-487e-bb56-dffc6a61f1b4"
+    },
+    {
+      "start_time": 1887,
+      "end_time": 1918,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There was a store here. I think it was called “Tex-Run Store,” something like that.  The owner had two locations, one off of MOPAC and [Lake Austin Boulevard], and one off of [South Congress Street] and [Riverside Drive]. And he used to be real involved in philanthropy then. And he was real involved with a 10k here in Austin. Just very involved."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "8352bf44-9be2-4bae-b9c8-293ec8d45de2"
+    },
+    {
+      "start_time": 1919,
+      "end_time": 1938,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And he had been here, doing business, very popular, very involved, and all of a sudden, a developer came in and wanted that location on Congress and Riverside Drive. And again, why did such a small mom-and-pop store have that location when it was a prime location?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "4556cab3-9849-4693-a08c-67bdbba76133"
+    },
+    {
+      "start_time": 1879,
+      "end_time": 1950,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well they, apparently, offered him money, and he said he didn't want to sell his business. He was fine where he was at, and he was, because he was right off of Town Lake, all where everybody gathers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "afcc8962-d223-4157-895d-4730c2630e9d"
+    },
+    {
+      "start_time": 1966,
+      "end_time": 1984,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I'm like,  “Oh my God, if they can do something like that to someone like him, who's in the know and who's been involved with the city and the philanthropy and business and you name it… If they could do something like that, they could do that to anyone else.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "6ce39831-b53b-4dbc-94ae-8fba42aea847"
+    },
+    {
+      "start_time": 1985,
+      "end_time": 2028,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here recently, we're getting notices about this lot right at the corner of Montopolis and [Fairway Street]. And there are three homeowners there that are resisting the rezoning and the sale. And in talking to one of them, she says that they're going at it with a developer, because they want to offer her money—but with a different rezoning. So that way they have to pay her less money than they would if they currently buy her out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "7b428ef6-b244-4a9f-980c-71fad27c2376"
+    },
+    {
+      "start_time": 2029,
+      "end_time": 2044,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so they're in a struggle right now over that, and she's aware. She goes, “I know.” She goes, “'I'm just stalling, you know, doing the best I can to hold on to my property, but I know it's just a matter of time before somehow or another, they'll push me out.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "d8cdc359-13c7-49ff-9dd0-0c339662f768"
+    },
+    {
+      "start_time": 2045,
+      "end_time": 2061,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And her situation is [that] she lives on this side of the street, and right across the street, her mother lives there. So she's like, “I just don't want to be moved out. I don't want to have to move in with my mom, and I can't move anywhere else, because then I'll be too far away from my mom.” (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "0384523c-11f0-47f7-9485-d1ede6dc10da"
+    },
+    {
+      "start_time": 2063,
+      "end_time": 2079,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So it's just one of those situations where you just see it and they're coming and you...I don't know that there's anything that you can really do about it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "3418fb00-55b6-4a93-bfce-00635ab7c455"
+    },
+    {
+      "start_time": 2081,
+      "end_time": 2108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You mentioned [water runoff]. Have you been concerned about water quality, drinking water over time? Or has that… Do you trust the local government when they say that water quality is fine? Do you feel like you've grown more concerned about water quality over time?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "5f7afea2-1655-4a29-8a93-a885420c4cdb"
+    },
+    {
+      "start_time": 2109,
+      "end_time": 2120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I definitely have. And again, with that reusable water system that I know some of them use. . .  My main thing with that is. . ."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "a1a61ed2-8173-4ff0-88e7-d64fd812ed46"
+    },
+    {
+      "start_time": 2121,
+      "end_time": 2122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's the one here? (cross-talk)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "46df13f1-2844-42b5-b73c-2e7f8a0fa23c"
+    },
+    {
+      "start_time": 2123,
+      "end_time": 2139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. My main thing with that is at least somehow or another, [there are no] posted signs primarily in the two languages because people could be trying to drink that water, not knowing that it's not really drinking water."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "32280ea6-9ebd-4baf-b69d-ab531dcdff7a"
+    },
+    {
+      "start_time": 2140,
+      "end_time": 2155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But likewise, with all the construction, I am concerned with all the construction and just… How safe is it? What are we drilling? Where is stuff coming from? What's getting in our water systems?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Env't Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "b20c9cec-6124-471e-a540-32fc83aa6582"
+    },
+    {
+      "start_time": 2156,
+      "end_time": 2171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because I don't believe that with as much construction that's going on, there's really that good oversight over safety, with what people are doing with their chemicals and containment and stuff like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Env't Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "f1ce3b5a-0de7-429b-81d9-b48b151fa059"
+    },
+    {
+      "start_time": 2172,
+      "end_time": 2188,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Have you taken any action—activist actions, going to City Council—any action to address water issues? Have you filed complaints? Worked with community [organizations]? What has activism around water quality looked like here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Env't Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "a2d20cf4-c764-459e-aa76-737114fcbdfe"
+    },
+    {
+      "start_time": 2189,
+      "end_time": 2197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think. . . I'm not sure exactly if [there is activism on water issues]. I think it's just environmental [activism], period. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Env't Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "e466ce89-0058-44b0-a7fd-712f8e8c70b1"
+    },
+    {
+      "start_time": 2198,
+      "end_time": 2208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I think I consider the environment [to be everything]: air, soil, you know, everything is mixed, somehow or another."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Env't Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "aa9f0ca7-32cc-4e1a-acc5-8553a6200a75"
+    },
+    {
+      "start_time": 2209,
+      "end_time": 2227,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But when Susana Almanza was doing the [activism with Tank Farm], we were concerned about that. And so when there were meetings and stuff like that, I would support that. I would go to that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        },
+        {
+          "tag": "Env't Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "4f289bbf-709b-499d-ae10-ed66d99143f0"
+    },
+    {
+      "start_time": 2228,
+      "end_time": 2229,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These are the Tank Farm [meetings]?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "3e61d675-7ec1-43d9-a430-080e12361475"
+    },
+    {
+      "start_time": 2230,
+      "end_time": 2232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Correct, yeah, correct. That was the biggest issue."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Env't Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "09a40ae4-9c7a-4648-82a5-56b7d3d13d8b"
+    },
+    {
+      "start_time": 2233,
+      "end_time": 2244,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As I stated to you once before, there had been an issue back in the ‘70s with Town Lake races. Those went away again because of the activism that happened there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Env't Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "24e4345f-f0c1-45ac-8851-bda4b1add784"
+    },
+    {
+      "start_time": 2245,
+      "end_time": 2265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And nowadays, I think really COVID set back a lot of the means and ways of gathering and being able to gather to address issues like that, because everything's done so differently now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Env't Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "45758aba-9300-4c58-961c-6c62cff48f3b"
+    },
+    {
+      "start_time": 2266,
+      "end_time": 2270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tell me more about that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "d80eeb54-b126-454c-a5fc-761531a4a309"
+    },
+    {
+      "start_time": 2271,
+      "end_time": 2275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's hard to get anybody . . . I'm sorry. (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "48c6f33a-f1a6-4835-a7f6-e6f138cd3d95"
+    },
+    {
+      "start_time": 2276,
+      "end_time": 2290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is. It's very hard to get anybody on the phone. Anytime I call the City about anything, and you just feel bounced around. And you ask questions, and “We'll get back to you,” and then, literally, there's been times when nobody even calls back. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "ab443bb1-882c-454b-a7ab-f22a96c191ee"
+    },
+    {
+      "start_time": 2291,
+      "end_time": 2309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, in a way, I support people who want to enforce the workforce to go back into the offices, because I don't know if that would help it. We won't know until it happens, but it just makes me wonder, you know, what happened? Because it didn't used to be [this way]. (laughter) "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "cd3e4c65-4e05-4129-a391-c83880dd7c06"
+    },
+    {
+      "start_time": 2310,
+      "end_time": 2322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You literally can call any City of Austin office and leave messages, or somebody will call you back, or whatever. And they'll just pass you around."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "ed43cb96-4bc4-467f-a4ec-fb1c9242abc8"
+    },
+    {
+      "start_time": 2323,
+      "end_time": 2342,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you think—do you remember a time when decision makers were more accessible? Not just with, you know, calling offices? Do you remember when council people were more accessible? Or was it always that you were kind of like calling a city office as a point of entry?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "ce0a4446-0b4b-41aa-ae28-79edb778498a"
+    },
+    {
+      "start_time": 2343,
+      "end_time": 2356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I remember the last time I emailed all the City Council members. It's been a while. I only heard back from like two people out of all of them. This was a while back."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "816e19f0-a5ee-4735-9f87-b4eacfd2586a"
+    },
+    {
+      "start_time": 2357,
+      "end_time": 2368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But yeah, I do believe that back when we were doing the Austin Interfaith [Organization], we had more accessibility as a group."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "6c6cedd8-61de-4d19-ae4d-a294ab72bb17"
+    },
+    {
+      "start_time": 2369,
+      "end_time": 2393,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And personally. I had an incident once where I went up the ladder and I actually got to speak with the Assistant Chief at APD [Austin Police Department] over my personal incident, and I was surprised that I could do that. (laughter) "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "a3b487e4-fd9d-4b12-8152-df938a7c7a6b"
+    },
+    {
+      "start_time": 2395,
+      "end_time": 2420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But here recently, in my interactions, even with Austin Police Department, I've said that I come from an era and a community where we knew who our officers were here. We knew them by name. We could shake their hands. They were seen in the community. They were known in the community. And we know who to go to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "3d57a6de-e05d-48e7-b0f7-861fcfbb7fa0"
+    },
+    {
+      "start_time": 2421,
+      "end_time": 2430,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nowadays I ask questions, like: “Who's supposed to be in charge? Who's supposed to oversee us?” And then I get different answers, you know?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "ed16b4ad-5d6a-44d9-8d86-364e80220aea"
+    },
+    {
+      "start_time": 2431,
+      "end_time": 2453,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so even at that level—I know we're talking about environmental [activism]—but at every level, you just see that where you don't have that “go-to” information anymore. Either as a group or as an individual, much less as an individual."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "3df98cce-8850-434e-a02d-4b5598da5bf5"
+    },
+    {
+      "start_time": 2454,
+      "end_time": 2462,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Before we get too far from it, tell me about these Town Lake races and what sort of activism gathered to resist that. And why?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Env't Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "5202d1c6-ec5f-4ed6-b9ab-a11a32228921"
+    },
+    {
+      "start_time": 2463,
+      "end_time": 2495,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, there were boat races held at Festival Beach [during the annual Austin Aqua Festival], which is by Fiesta Gardens, near [Holly Street] and east of I-35. And apparently those boat races were creating an environmental issue. With boat racing, the pollutants come with the races, and stuff like that, the traffic…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Env't Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "b2ba58c9-7462-4fb6-87fe-a7e9dc025375"
+    },
+    {
+      "start_time": 2496,
+      "end_time": 2520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And there was no infrastructure there. Again, at that point, it was more of a natural state in that area, and it was not done for the community. And these boat races really created chaos, not just for the neighborhood—but for the environment, the wildlife at that point."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Env't Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "b9b9fe80-b580-4fbc-bd57-98e7f85e85ae"
+    },
+    {
+      "start_time": 2521,
+      "end_time": 2547,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so the community members in East Austin, especially Sam and Paul Hernandez [members of the Activist Group “Brown Berets”] who were some of those leaders, held protests and rallies around that to protest why [the races] had to be specifically there in an actual neighborhood, and why they couldn't be out in a more open area where there was basically less neighborhood feeling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        },
+        {
+          "tag": "Env't Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "b2a21f7b-4b73-4de0-844d-36f0a5f65bf6"
+    },
+    {
+      "start_time": 2548,
+      "end_time": 2550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When would that have been?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "82908015-6cdb-43d1-91a3-3b218f975552"
+    },
+    {
+      "start_time": 2551,
+      "end_time": 2555,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was back in the '70s and the '80s."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "3cf39332-e7b0-480c-8e5f-33cec749c897"
+    },
+    {
+      "start_time": 2556,
+      "end_time": 2582,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What would be your ideal way for community to be in coalition or contact with local government? What would an ideal relationship look like? What is it? You mentioned earlier something about that we should grow in a way that considers all our citizens, not just some. What would that look like?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "58e6f55d-dd2f-47a5-a44b-3dbf1f963953"
+    },
+    {
+      "start_time": 2583,
+      "end_time": 2616,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've said this in different areas. For example, we have South by Southwest, right? But you hear mostly of the talent—which I don't have anything against anyone—but you hear a lot of the talent coming in from elsewhere. But we have local talent, and how are we featuring our local talent? And are we giving them the same space, the same opportunity? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "38e675ae-e973-4612-9f85-1dcb171e40d8"
+    },
+    {
+      "start_time": 2618,
+      "end_time": 2673,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I said this to somebody that works for the city. There was some kind of [event], and she was involved with community organizing, for musicians and stuff. And I told her, I said, “There's a lot of—and this is off the subject, but it applies to everything—there's a lot of local talent that could be featured and could be honored to a certain extent. Not to say that you can't have influx from elsewhere, but just don't forget about what's here before you bring in. That you show respect, so that the change can be smoother and easier for everyone—for the people coming in, and for the people that are already here—in every area.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "afaa9315-254e-4254-ad55-4e374543f65d"
+    },
+    {
+      "start_time": 2674,
+      "end_time": 2695,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, when I used to be more involved, I would go to the Montopolis Recreation Center, [and have] meetings there with their board, and then our church, and then the Little League, and then the neighborhood meetings. And it seems like everybody had, like, their own little agenda."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "a58ae5af-33ae-4a86-9c3e-f662b4e1bf05"
+    },
+    {
+      "start_time": 2696,
+      "end_time": 2718,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[And] one thing that I always kept saying that I wished would happen is instead of having leaders competing with each other over their own agenda, they would find commonalities in their interests and values and agendas and work in coalition with other organizations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "2c5719e3-4257-44a4-8259-22af4bc63817"
+    },
+    {
+      "start_time": 2719,
+      "end_time": 2747,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But somehow or another, I kind of felt, and sometimes I feel that certain leaders and certain agendas are more concentrated on just one [topic], instead of looking at the bigger picture, larger picture, and being more inclusive. And they're exclusive in the process, because they're just looking at that little area."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "a2836953-758e-4e1e-945e-71528d6248f3"
+    },
+    {
+      "start_time": 2748,
+      "end_time": 2765,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why is it so hard for decision makers, or folks in general, to think macroscopically, to be inclusive? Why is it so hard to think outside a little pocket?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "8c8603db-711e-435c-ac5f-e4c1edfbd5d4"
+    },
+    {
+      "start_time": 2767,
+      "end_time": 2786,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have no idea if there is, like, special interests, because I'm not involved in that. And I'm not a part of any of that. As far as the political aspect of things, I'm just from the grassroots aspect of it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "2e92570e-2c2d-471e-a596-d2f13354a3e3"
+    },
+    {
+      "start_time": 2787,
+      "end_time": 2810,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I think things get to a certain point where there's a....For some people, it's a give and take, like you give me this and I'll give you that, and, you know? And so if and when it gets to that point, I think people lose focus. You know, “Where did I start from, and what was my vision when I started this?” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "41bd4f28-190e-4517-a54a-fbf89fafc0e4"
+    },
+    {
+      "start_time": 2811,
+      "end_time": 2827,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think when we lose focus, and we lose why we started this—what drove us, what interests we had, what our vision was—I think that that's where it gets very narrow. The focus becomes very narrow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "0185b8a5-b8ac-4665-855e-97b96eb140f5"
+    },
+    {
+      "start_time": 2828,
+      "end_time": 2845,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I love that. You now have decades of experience in community activism, environmental activism...If I asked you, what's the greatest lesson you've learned, maybe the hardest lesson you've learned, what would that be?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        }
+      ],
+      "uuid": "e7e339a4-15ff-4344-b070-230b2d3f55f4"
+    },
+    {
+      "start_time": 2851,
+      "end_time": 2910,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Personally, the hardest lesson I've learned is to feel defeated, at times. I don't know if that makes sense or not, or if that answers it. Because I have this mentality that if you follow rules and you mean well and you stay on that track, then you believe in the goodness of others as well and things will fall into place. But when you feel that you follow the rules and that you mean well, but then you get confronted with negativity for whatever reason, it's hard to understand that like, why wouldn't you want this? (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "6ad2e235-afa8-4d43-ba57-1449558f1972"
+    },
+    {
+      "start_time": 2911,
+      "end_time": 2932,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, wouldn't this be good for everybody? It's just one of those things that is still hard for me to understand—that we don't all want the same thing for everyone. Again, it's not just a few, but for everyone. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "f098b381-e300-48ba-817a-dbf95a8a6d38"
+    },
+    {
+      "start_time": 2933,
+      "end_time": 2981,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't know if you're familiar with Mount Bonnell? I remember the days when we would go over there and it was a more open area, as far as housing. It was just a beautiful area. And about what, 10-15 years ago, I went—and I've gone since then as well—but there was this house built literally right where we could actually walk down to still and get a different view before. And I'm like, “Why is it that it's okay for these people to build up this high and take away from hundreds and thousands of people that visit the area—that can enjoy the area—and now it's just this household that gets joy?” (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "afcd9ac8-4139-4363-8d91-ec3ae1eabb64"
+    },
+    {
+      "start_time": 2982,
+      "end_time": 2990,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't know. I don't understand. [I didn't understand]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "0f4f5274-48b6-4e15-b8de-95f100ec6108"
+    },
+    {
+      "start_time": 2991,
+      "end_time": 3028,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At one time, I wanted to build like, instead of just adding to my house, I wanted to build like a separate little “garage-apartment” or something like that, for when my kids got older. And back then, you couldn't do that, [because of the city code]. You just couldn't do that. And so to me, it's like, I was trying to build that more as a need for my growing family and stuff like that. But then people can go and buy property that actually belongs to everybody, because it's out in nature."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "7c4b0b44-d71c-4b4f-99b0-ecadc1a224e2"
+    },
+    {
+      "start_time": 3029,
+      "end_time": 3042,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the houses [on Mount Bonnell] just climb. They are just climbing and climbing and getting to a point where it takes, again, away from those of us that are there to enjoy it. And [now Mount Bonnell is just being enjoyed by a few]. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "bfe0be8f-2c95-4c9a-8c16-ac059443d7a7"
+    },
+    {
+      "start_time": 3043,
+      "end_time": 3046,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I don't know if that answers your question or not. I'm sorry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "a099a0d1-2af0-4d12-a737-0b15ade62701"
+    },
+    {
+      "start_time": 3047,
+      "end_time": 3062,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who do you think has been the most influential for you when it comes to organizing and activism? Do you feel like you learned it from your grandparents or parents? Do you feel like you learned it from someone in the community? (cross talk)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "dc81a4f2-7a55-436c-8e6f-cc21393c554e"
+    },
+    {
+      "start_time": 3063,
+      "end_time": 3075,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[I think my mom]. My mom was… My earliest memories were of my mom's actions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "138b74ee-f9dc-438b-987b-a5cec1b34da3"
+    },
+    {
+      "start_time": 3076,
+      "end_time": 3104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Again, I come from Mexico, and you have different levels of education and resources more apparent in poor countries. And I saw firsthand how people with less education and less resources would come to my mom and ask for help, and my mom would help."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "6b6d55ed-7322-4a98-be93-beec29e4197b"
+    },
+    {
+      "start_time": 3105,
+      "end_time": 3150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, I remember there was a family that came from, basically a ranch, and they were new to the city, and their child was very, very sick, and the mom didn't know the ins and outs of where to take the child. And they came to my mom, and the little boy was very, very sick. And my mom grabbed the child and said, “Come on.” And they took off to the hospital on a bus. They got on a bus. She showed the other woman where the buses were, and actually went with her all the way to the hospital. The little boy ended up dying, which was sad, but I saw that a lot. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "c68f332d-578b-49cf-8cee-f24d711c7118"
+    },
+    {
+      "start_time": 3151,
+      "end_time": 3181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Growing up, we didn't have city water, so they would fill big old barrels throughout neighborhoods, and then people would have to take their buckets to go refill them there, and then carry them over to the house. And my mom was instrumental in getting signatures— neighborhood signatures—[to get running water]. (cross-talk)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "ee812eee-a8e2-425b-bc29-e712d9783d29"
+    },
+    {
+      "start_time": 3182,
+      "end_time": 3183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[This was in Mexico?] (cross talk)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "a02047f1-0787-48a2-bd28-ab59d23396ac"
+    },
+    {
+      "start_time": 3184,
+      "end_time": 3217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[This was in Mexico], yeah. So we didn't have that experience [here in Austin], but we had it in Mexico. And in Mexico, it was. . . it is hard because there's less resources and the government is harder to reach, but getting signatures [has a lot of significance]. If you get signatures and… She would fill up with lots of spiral [notebooks with signatures]. She would go door to door and get signatures. You know, saying, “We need this. I need your signature so that I can take it in.” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "64a66cc0-39f2-4ec2-8162-9521c3596b8b"
+    },
+    {
+      "start_time": 3218,
+      "end_time": 3231,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And she was instrumental in getting running water to our neighborhood in Mexico, because I remember, again, the days where we would have to go and fill up buckets and then take them back home and fill our own individual water barrels."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "a61cc786-baf0-49d2-abc6-5b626af67092"
+    },
+    {
+      "start_time": 3232,
+      "end_time": 3249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When you reflect on your childhood there in Mexico, do you feel like you saw a different relationship to land, water, and environment than you saw in your childhood here in Austin? Or was it a pretty similar connection to earth?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "f7bc552f-4b27-40e3-8ac6-2220d2921b3d"
+    },
+    {
+      "start_time": 3250,
+      "end_time": 3278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm not sure how to answer that one… Maybe it was a little different.... My childhood memories of the environment were scary, and then they became more enjoyable once we were here, and let me tell you why."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Env't Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "0884458e-6dce-456b-b1bb-5d9bf8642439"
+    },
+    {
+      "start_time": 3279,
+      "end_time": 3309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So in Mexico, we lived halfway up a mountain—not a hill, but an actual mountain. So that was pretty high. And I just remember, especially during the rainy days, how scary that was—how scary and how frightful that was—and actually seeing people's belongings washed down into the streets."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Env't Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "782a4507-457e-4b85-8cf8-ccacefbb0fd1"
+    },
+    {
+      "start_time": 3310,
+      "end_time": 3332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so it was always scary and sad, like the mountain was beautiful, and being up there in that mountain air and seeing the whole city… Like that was beautiful, but then it had its own issues: going up and down, walking it, and just mostly the rain."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Env't Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "6de8c0e8-8e11-459e-bdf2-2eb9642f2f21"
+    },
+    {
+      "start_time": 3333,
+      "end_time": 3336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When the rain came gushing down that mountain, it was gushing down. And it would literally—if people weren't prepared, or didn't build their homes right—their whole homes would get washed down, or their belongings. And it never failed that after rain, you would go out into the street and you would just find all kinds of things out on the street. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Env't Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "36caf9cd-3491-400a-ba7d-df80b203c409"
+    },
+    {
+      "start_time": 3357,
+      "end_time": 3403,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So for me, it was kind of scary. But at the same time, I remember we would go on hikes a lot through the mountains. And my parents would cut cactus. We would eat prickly pears off the cactus. It was really neat to be able to do that. I was around fig trees so I could just pick up a fig. [And] pomegranates—I think they're called pomegranates—[and] berries. Like there was a lot of fruits and natural things that if you were just sitting down, you could just pick from all that. (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "f4f255a3-d90b-4167-8cf9-e310ae344da0"
+    },
+    {
+      "start_time": 3404,
+      "end_time": 3432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it was again, something like that when I talked to my grandkids [about Mexico]. And why don't we get to do that now? I don't know. Nowadays, I had never even heard of ornamental trees, fruit trees, until not that long ago. And now I tell my grandkids, “Whenever you see any kind of trees, fruit trees, whatever, don't pick at them because you don't know if they're ornamental or they're real.” Maybe some people would know, but I don't know. (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        },
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "32b20ac4-2879-4d2d-8350-cf1755353449"
+    },
+    {
+      "start_time": 3433,
+      "end_time": 3437,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So when you moved to Austin, did you have the same experience with figs, pomegranates?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "2d73d5cf-8a07-4710-a09b-85bb6845a972"
+    },
+    {
+      "start_time": 3438,
+      "end_time": 3439,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[No]. (cross-talk)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "0c3606d1-0d78-4d64-907b-94becd83cbaf"
+    },
+    {
+      "start_time": 3440,
+      "end_time": 3448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Repeating Griselda's words) No, that went away. What trees and plants do you remember in Montopolis?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "d298d91b-01e7-454b-a8ad-2b275feff369"
+    },
+    {
+      "start_time": 3450,
+      "end_time": 3457,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Pause) Not really...."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "cb5f7c76-80ff-4877-aad3-90202dbce7f4"
+    },
+    {
+      "start_time": 3458,
+      "end_time": 3472,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The neighborhood that we moved into was a brand new neighborhood service, a brand new home. And I don't… It was a brand new neighborhood, so I'm sure there was a lot of clearing for that neighborhood."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "8a1d742f-5218-4503-96df-1dd2fd34d928"
+    },
+    {
+      "start_time": 3473,
+      "end_time": 3489,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then we lived right across the street from the Montopolis Recreation Center, which has a baseball field. So really… Not too much, not too much natural of anything."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "e4a8aaed-5e5c-4fe1-9d60-4f5387527ff2"
+    },
+    {
+      "start_time": 3490,
+      "end_time": 3509,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So you talked about your mom and how much you are living in some of the wake of her legacy. Do you feel like you're starting to be intentional with your kids or grandkids about certain lessons around community or activism that you're trying to pass on?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "3217ec3d-90d6-4ca8-8282-7aec083907b1"
+    },
+    {
+      "start_time": 3510,
+      "end_time": 3527,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I do. And I think, I mean I don't know if it's good or bad, but I know that a lot of my kids and my nieces and nephews struggle with time and traffic. (laughter) "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "b915bcb1-3e09-4d06-86a4-e1ecbf0cde33"
+    },
+    {
+      "start_time": 3528,
+      "end_time": 3488,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And often from my kids and my nieces and nephews, I hear, “How did you guys do it? How did you guys raise all of us and were active in sports and active in the community, and active in this, and active in that? How did y'all do it? Because we just can't. We just can't.” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "31305040-e560-4aca-b498-36b82eb3d5cf"
+    },
+    {
+      "start_time": 3549,
+      "end_time": 3585,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, first of all, I calm their issues, concerns, and I guess just anxiety from it all down, by saying, “First of all, me and my siblings made a conscious effort to stay here in this community where we grew up. So our church was there, our immediate family was there, our support system was there. The H-E-B has always been close. My doctor's office has always been close. I was here before the airport moved over here, which was another environmental issue too.” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "8052a7fa-e803-4e22-bd0c-72ae26c2f9df"
+    },
+    {
+      "start_time": 3586,
+      "end_time": 3625,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, we had a sense of community. We didn't have to travel 30-40 minutes to get to where our kids were doing sports or their religious activities or their school. Everything was here in the community. Whereas now, people have to travel at least 30 minutes, and if you're stuck in traffic, 45 minutes to an hour, to get to an activity or somewhere you want to go. That sense of community, of having your resources, of having things close by, is gone. It's gone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "5f711468-07d6-4e28-aba0-b0460cdb6d21"
+    },
+    {
+      "start_time": 3626,
+      "end_time": 3655,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I tell my kids and my grandkids, “The biggest change and the biggest impact that I feel in our lives is that you can't afford to live here, so people have had to move out. And so you have less of a support system. You have less resources around you. You have to drive wherever you have to drive, and you're spending more time in traffic and trying to get to where you're trying to go, instead of where you're wanting to be.” (laughter) "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "b6f09964-6b91-46f3-99b0-a64f4bc5f02c"
+    },
+    {
+      "start_time": 3656,
+      "end_time": 3666,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, they kind of come to the realization that, “You know what? That's true.” Everything was around here, everything was here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "3039281a-7145-4759-9931-15fdc46b3420"
+    },
+    {
+      "start_time": 3667,
+      "end_time": 3681,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And even now, that's part of the reason why I'm still here, because my parents are close by, so I don't have to drive 30 minutes to an hour to get to them. In any emergency . . . my mom has a hard time with her remote control [and] I get in my car. (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "bbdde91e-35e5-4a32-b074-456e6ee5b797"
+    },
+    {
+      "start_time": 3682,
+      "end_time": 3689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She's five blocks from here. So for me, that's still my mentality: I want to be close to what's important to me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "04ae6e6f-2ead-4e93-848f-8269fcb9c0ab"
+    },
+    {
+      "start_time": 3690,
+      "end_time": 3695,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What's your ideal future for Montopolis?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Change",
+          "category": "Evolution"
+        }
+      ],
+      "uuid": "4c3027fb-c1d1-4099-8421-190cc0b6af2f"
+    },
+    {
+      "start_time": 3698,
+      "end_time": 3706,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I didn't see anything wrong with the way it used to be—I see more wrong with the way it is now. (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "f13ea54e-aff1-449c-a1e9-e7207fae4c0d"
+    },
+    {
+      "start_time": 3707,
+      "end_time": 3713,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But again, is that inevitable change? But was that change good or bad?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "21c3e874-917a-4a1d-8852-76c08d1b12aa"
+    },
+    {
+      "start_time": 3714,
+      "end_time": 3741,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When we first got here in 1970, like I said, the church was right there, the school was right there. And then further, about maybe eight blocks from here, was the library. Right off of Montopolis, [there was a meat market]. The police substation was there. Again, all your central important things were close by. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "4854141b-7c7d-47f7-b8ef-c7992f800431"
+    },
+    {
+      "start_time": 3742,
+      "end_time": 3760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They closed that library. They moved it to Riverside Drive so that it could be more accessible to a larger crowd. Well, this side of Montopolis stopped using the library because it was too far. They moved it by that H-E-B. Then they decided to open up Ruiz Library."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "dedbc664-14a2-4c64-ac14-4e03f00db90b"
+    },
+    {
+      "start_time": 3761,
+      "end_time": 3798,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But when they opened up Ruiz Library, this street was a dead end. And there was like a little dry creek that ran up and down from Riverside all the way over there. So there was no sidewalk or [crosswalk] to get to the library—a community, neighborhood library—and why would they put a library there when you already have an ACC library there. . . ? I don't know if it's still open to the public or not, but I remember they said that the public could use it. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "8df14f0f-ef66-4d35-95ab-a0b30d5b68fc"
+    },
+    {
+      "start_time": 3799,
+      "end_time": 3816,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But anyway, to me, it's like mak[e] it to where your intended [population] will actually use it. If not, then what's the purpose? If there were no sidewalks, no crosswalk, like my kids weren't allowed to walk over there through that dry creek, they just weren't."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "f0a19247-04fa-41ea-9bb6-98f468ab10c4"
+    },
+    {
+      "start_time": 3817,
+      "end_time": 3824,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They finally put a crosswalk. They finally opened up the street. But guess when they did that? When they build these apartments. (laughter) "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "09ff764e-41c0-4d20-97f0-3a9b1f3bf24c"
+    },
+    {
+      "start_time": 3825,
+      "end_time": 3830,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not for when us, the neighbors, who were asking for it, but when they finally built those apartments there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "d3515b7c-206f-483e-854a-95668fb5bc09"
+    },
+    {
+      "start_time": 3831,
+      "end_time": 3851,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So it just seems like a lot of things don't make sense to me, and again, we just lost that sense of community. We don't have a substation here. We don't have a police substation here. We don't even know who our area patrol officers, commanders, whatever it is, like nobody knows. (laughter) "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "265b8a81-a9a9-4b16-aff6-4803ed8c728d"
+    },
+    {
+      "start_time": 3852,
+      "end_time": 3857,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it was just a different way of life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "1550e845-163f-4391-b13e-d6d301aedf39"
+    },
+    {
+      "start_time": 3858,
+      "end_time": 3880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you have ideas of what would have to change to bring the former version of Montopolis back? Like, how would we make that a reality? Would it be moving things closer, inviting more community folks into the conversations? What would need to happen?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "cd9d4c0a-7874-46af-8bf5-196201d31acd"
+    },
+    {
+      "start_time": 3881,
+      "end_time": 3889,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think respect and acceptance. (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "3acf33eb-ff73-4d33-b473-2d2c44c3b363"
+    },
+    {
+      "start_time": 3890,
+      "end_time": 3913,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Respecting what's been and respecting the changes that are needed, because you have to have both, right? Because there's some people that are against change, period, whether they understand it or not. So it's just respecting it, because it's going to happen, but how can we help it happen? And then, respecting the past."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "14e642f0-564c-42d2-86f1-ac648233df62"
+    },
+    {
+      "start_time": 3914,
+      "end_time": 3966,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So again you come in. . . . I'm going to give you an analogy. One out of my many bosses that I had, I had one particular boss who came in, and this was at a social service agency, and she said, “I'm not going to take the previous director's office yet. I know that's going to be my office, but I'm not going to take her office yet, because she was very dear to all of you. She was very well loved and respected. So I'm going to take another office and give you all the time to deal with her now being gone and the change and that I'm coming in.” She goes, “I just want a smooth transition as possible.” And I had never heard that since then. (laughter) "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "45ab0c52-306f-4e34-9be7-9702937b1f64"
+    },
+    {
+      "start_time": 3967,
+      "end_time": 3985,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've never heard that again, either. But I just thought that was so respectful, and just, “it's not about me, it's about you guys, and I'm coming into your territory, and I want to be respectful of that, and I want to give you time to go with the flow.” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "4c7d9c09-2b37-4731-8af3-6458c6804d84"
+    },
+    {
+      "start_time": 3986,
+      "end_time": 4012,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, she was already the new director, but she said, “I don't want to come in and just tear everything apart and say, ‘I'm here now.” To that she goes, “So I'm going to give you guys time to just go through the emotions, whatever you have to work out with. [The previous boss is] gone, and then now, I'll take over in a couple of months or so. When the time is right, I'll take it.” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "d3d39191-ba6a-4f08-9a74-e37b933cc88d"
+    },
+    {
+      "start_time": 4013,
+      "end_time": 4016,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I'm like, that was so admirable of her. Why can't everything [be like that]? (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "c5514564-f3c7-466b-9f76-a1e54830a968"
+    },
+    {
+      "start_time": 4017,
+      "end_time": 4035,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Again, she was acknowledging where we've been, where we are, now where we're going here. But, “I know where you've been. And you guys were emotionally tied to [your old director].” And this was at a workplace, like why can't it be more like that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "e18dcd8c-ca71-435e-bad5-75fd283fe8cf"
+    },
+    {
+      "start_time": 4036,
+      "end_time": 4071,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Push back against what I'm about to ask if you want, but I hear you talk about this woman. I hear you talk about Susana. I hear you talk about your mother. Why is it that women are able to maybe show this respect and acceptance and shape change in certain ways? Does a woman have a special way of being in relation to community, that maybe we haven't done a good job of bringing young men in, inviting them into that certain way of being?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "b1ac130e-3156-4e99-98b8-a963a3e654a6"
+    },
+    {
+      "start_time": 4072,
+      "end_time": 4083,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think the nurturing aspect of a woman [plays a role]. Which I'm not saying that men don't have it, and I'm not saying all women have it. (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "939cdb31-ff16-4a26-9b24-4d9514360412"
+    },
+    {
+      "start_time": 4084,
+      "end_time": 4119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm sorry. I'm just stating the obvious. But there is a nurturing component that I believe is somewhat inherent to most women. And it could be a factor to do with how you grow up or [what you] need. I don't think it has to do with estrogen, but I do believe that there needs to be a nurturing sense to how we go about things. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "59d93340-5a8e-49e8-804e-401ff444aa6a"
+    },
+    {
+      "start_time": 4120,
+      "end_time": 4137,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I often tell my husband, whenever I see road construction or something like that that could have been planned better, I tell my husband, “They didn't have a woman on board. They didn't have a woman on board. If they had had a woman on board, that would have been better planned.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "50e7a6c1-aac3-4df2-8d74-8ff37797023f"
+    },
+    {
+      "start_time": 4138,
+      "end_time": 4162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because it's like what I mentioned earlier, when I would go sit at different meetings, I would ask that same question, “Can't we all get on on the same agenda, on a similar agenda? Why do we have to be like competing organizations, leaders? Why can't we just all come together?” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "c9f01e1e-f271-4976-ab7a-f061b81956c9"
+    },
+    {
+      "start_time": 9023,
+      "end_time": 4183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the Austin Interfaith did that with other religious organizations, so I was proud to be part of that. But when I was involved with a Little League here in Montopolis, it was mostly all female officers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "d14f30ba-7f99-4bde-9191-d8278e1918bc"
+    },
+    {
+      "start_time": 4184,
+      "end_time": 4208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the thing that I really liked about that is that the Church Secretary was the President. I was either the Vice President or the Secretary. And then there was another local person and her sister that were the Treasurer and Secretary or whatever. We filled it up pretty good, but we were all involved with a lot of things in the community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "53f572fd-0030-47ae-8253-0f8b21eddd8b"
+    },
+    {
+      "start_time": 4209,
+      "end_time": 4246,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One thing that we brought to the table when we would meet is we would bring the Del Valle schools and the AISD schools that were in this area their calendars. We would bring the Church calendar, the Montopolis Rec calendar, and we would take all that into consideration when building up our schedule. So if there were STAAR testing, we made sure there were no games, no tournaments. Coaches knew of that, because that was the focus at that point, the STAAR testing, not our Little League. We could play ball before or after, but the STAAR testing was the focus."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "7fa3206e-10f5-40bd-afbf-9007c41ee3e4"
+    },
+    {
+      "start_time": 4247,
+      "end_time": 4265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And we wanted our kids to be focused on that for that period of time. If there was something going on at the church, we didn't want to compete with opening ceremonies or anything with what was going on at church, because then families get torn apart. “Where do I go? Which one is more important?” And it's not about that. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "5b85fece-ba61-41a4-b865-05718cb6ba7c"
+    },
+    {
+      "start_time": 4266,
+      "end_time": 4301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When you're raising kids, it's all important, and you need to try to give it each one time. And if there was more of [that cooperative scheduling], I think things would work better. And you, as the leaders, show that it's not just important to them, to the leaders, but you know what? It's important to the youth, important to the leaders. And then you don't have to juggle with, “Which one do I have to go to? Which one is more important? Which one is pressing me more?” It can all be done if we all work together instead of against each other."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "c9542ac5-057d-42bf-85ff-18d0f33cf7fd"
+    },
+    {
+      "start_time": 4302,
+      "end_time": 4310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is there anything else you want me to know, or anything you think I should have asked but didn't?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "a9040e7e-293c-4ef5-9dcb-e730c739b881"
+    },
+    {
+      "start_time": 4313,
+      "end_time": 4324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Pause) I had written… let me see if I can find [those documents]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "0feb9074-b523-4327-a0c1-86be07ef2954"
+    },
+    {
+      "start_time": 4325,
+      "end_time": 4345,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. Oh, I don't know if you're aware that there is a [no fishing rule]—well, you can fish in Town Lake, but you can't keep the fish because they're not good, they're not edible. So you can fish, like I said, on Town Lake, but you just can't keep the fish."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "56c38e88-9614-40bf-a904-aea990f303dd"
+    },
+    {
+      "start_time": 4346,
+      "end_time": 4348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Was that mandate around when you were a kid?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "b53be576-ee9e-4f67-8907-61bc6c31d96c"
+    },
+    {
+      "start_time": 4349,
+      "end_time": 4364,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't remember that, because I do remember people fishing and eating. But now there's a [no fishing rule], and like I said, just that green algae that's growing, that's even killing dogs nowadays. So that's one thing—that no fishing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "9ccfa85c-7557-494f-bb97-2dcc520e0204"
+    },
+    {
+      "start_time": 4365,
+      "end_time": 4412,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I don't know if you're aware also, but apparently there's a lot of debris in Town Lake, under some of those bridges, and that's why they also [made a sign advising not to jump]. My brothers, my crazy brothers, used to, against the advice, they would jump off some of the bridges over there in Barton Springs. But come to find out later on that I understood why they would tell people not to jump off of those bridges. It's because there's apparently a lot of debris, construction debris and stuff like that, that had been dumped there. And so there's cement, there's wires, stuff there that is dangerous for people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        }
+      ],
+      "uuid": "00888dda-15f8-4093-8da1-e2fa4ffe529e"
+    },
+    {
+      "start_time": 4413,
+      "end_time": 4438,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I mentioned the flooding that would take place under the Montopolis bridge. I would see—we would see swans and ducks at Barton Springs, armadillos at the parks, at Zilker Park. And the whole Zilker Park area seems to be catering to bigger events instead of locals."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "155b3fa7-db85-4f5e-85c3-521f539698cd"
+    },
+    {
+      "start_time": 4445,
+      "end_time": 4451,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can't thank you enough for taking the time. I thought this was just beautiful. Did you have fun? (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "053dd9ae-c9c1-43d3-bb53-6824df21a9b0"
+    },
+    {
+      "start_time": 4452,
+      "end_time": 4454,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Could you tell? (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "991ea7c7-0c88-4bd0-a9bd-93f3e3a9bdec"
+    }
+  ],
   "set": "Default",
   "event_id": "c2976f4c-7ccf-451a-9fd2-0d63d9e276e3",
   "source_id": "f1559937-e010-4d14-9ad6-a262639acb71"
