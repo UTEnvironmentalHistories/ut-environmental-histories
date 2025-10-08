@@ -24,11 +24,101 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Science",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Environment",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Evolution",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Land(scape)",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "Community",
+          "color": "#99AFF2"
+        },
+        {
+          "category": "Memory",
+          "color": "#B3B3E6"
+        },
+        {
+          "category": "Meta",
+          "color": "#C195DB"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Water Quality/Env't Indicator",
+          "category": "Science"
+        },
+        {
+          "tag": "Env't Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        },
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Change",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "In Group v. Out Group",
+          "category": "Community"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Collective",
+          "category": "Memory"
+        },
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ]
     },
     "created_at": "2025-10-08T20:49:47.727Z",
-    "updated_at": "2025-10-08T20:51:57.934Z",
+    "updated_at": "2025-10-08T20:52:21.606Z",
     "generate_pages_site": true
   },
   "annotations": {},
