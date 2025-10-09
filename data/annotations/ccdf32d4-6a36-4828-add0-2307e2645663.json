@@ -1,5 +1,3908 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Today is May 7. Wednesday, May 7, [2025]. My name is Megan Poole, and I’m interviewing Francis Acuna. We're at Dove Springs Library. Thank you, Francis, for agreeing to this interview. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "1fda6476-3a68-4e3b-9430-db6ff2428bd6"
+    },
+    {
+      "start_time": 13,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I want to first ask about you. Tell me a little bit about yourself, where you live now, how long you've lived in that area, your relationship between Austin, Central Texas broadly, and how you've seen these places change over time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "32e5cb8c-321e-400b-a993-4976812a7800"
+    },
+    {
+      "start_time": 31,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right now, I live in Cedar Creek. I got there a year ago in March. I got there because I was looking for a better life. You know, after 50, you start thinking about the future: “What are you going to leave your kids with?” You know? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "d142719d-01e1-413d-9c53-85686d401baf"
+    },
+    {
+      "start_time": 59,
+      "end_time": 107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here in Austin, I lived 22 years in my home. [But] with other changes [with] the city, with the Equitable Transit-Oriented Development (ETOD) and land development, code changes, and things like that—I must admit that [even] as strong as I am, I was very afraid of not being able to have a job as an organizer if I was to get displaced at a later time. So, as an organizer, I don't have a title. I don't have a Bachelors. I don't have an Associates. I don't have anything, right? All I have is my high school diploma, and the legacy that we build when we work in the work that we do. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Change",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "855a0c06-12bc-45fe-b5c0-9bc05985bc0d"
+    },
+    {
+      "start_time": 108,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I kept thinking: “If I moved to Cedar Creek, for example, what am I going to organize over there? [What] if I get [to] this place at a later time, when the city already changed all of our communities the way they did with Montopolis and East Austin?” And I let it get the best of me with [my decision to leave] home. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Change",
+          "category": "Evolution"
+        }
+      ],
+      "uuid": "06f93734-cb94-4d09-a949-3df19bdfb33e"
+    },
+    {
+      "start_time": 136,
+      "end_time": 170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The first, number one [reason to leave home] was [that] I felt it in my heart when the City Council voted for that [changes to land development]. And then in May of last year, it was like, “Oh, my God, I better go. Because I'm not going to find a home close to Austin that I could still travel to, right?”  And that's what got me moving. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "49b3522a-979d-44ea-b539-1428835bf8df"
+    },
+    {
+      "start_time": 171,
+      "end_time": 217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But in the process, I guess the fear that we face when [we]'re being displaced kind of blocks you from making the right decision. For example, the realtors take advantage of you when you're trying to sell your home, and they'll take advantage of you when you're trying to buy a home. And then when you're making that decision about a home, since you are being forced to leave, you're not necessarily looking for: “Do I have a doctor close? Do I have a hospital? Do we have what we need close to us?” Like we do here [in Dove Springs]. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "15b08c6b-d04e-43b4-8200-11587857d2bd"
+    },
+    {
+      "start_time": 218,
+      "end_time": 249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[In Dove Springs], the bus was five houses away from where I lived over there. [Now,] it’s 30 minutes, at least, to wherever I want to go. If you want to go to a grocery store, [it takes] about 30 minutes. You want a hospital, you want a doctor, you want a school—everything is about 30 minutes from where I live. So, in case of an emergency, guess what? You're on your own. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "8141be95-30b2-4363-aef1-8e19507f4824"
+    },
+    {
+      "start_time": 251,
+      "end_time": 266,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All of those things could have been prevented if there [was] a plan for people that are being displaced. They already know [which communities are] low-income communities. . . [so,] check on them, right? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "1513f02f-ffa0-4a68-8e3b-2ada4b9eac7e"
+    },
+    {
+      "start_time": 267,
+      "end_time": 304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I was going to the meetings. I knew everything that was happening. But, I guess, in my hope, or in trying to make changes, I got lost with my personal needs and the needs of the community and what the city needed to do or wanted to do. And I didn't make the right decision."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "09663bcf-fd61-4a86-b5ec-01665698f86c"
+    },
+    {
+      "start_time": 306,
+      "end_time": 329,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean . . . I love my home, because I have animals. You get distressed, you know? I [might] get into this meeting, get upset, and go straight to the animals. They make you smile, right? And that’s beautiful. But it wasn't what [I] could have gotten if [I] had done it with a strategy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "dd8e64ca-504e-4aec-aada-7ce6b4050e9f"
+    },
+    {
+      "start_time": 330,
+      "end_time": 334,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So where was home before you moved? Montopolis?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "1d51efa0-c4c3-433a-b69a-ffe065297e91"
+    },
+    {
+      "start_time": 335,
+      "end_time": 336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, right here in Dove Springs"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "a020fcb9-daa0-41b1-aa48-5d1ab82c4c68"
+    },
+    {
+      "start_time": 337,
+      "end_time": 339,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How long were you in Dove Springs?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "075132e4-70ac-42e7-875e-8b6d8ef7a57a"
+    },
+    {
+      "start_time": 340,
+      "end_time": 344,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All together about 27 years. But in this home, 22 [years]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "a2671642-731b-4c2c-bf15-ab32ad109803"
+    },
+    {
+      "start_time": 345,
+      "end_time": 353,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do you think is the most important thing about Dove Springs? What makes that are unique from any other area in the city?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "83d74b08-e761-47c0-b1d2-278e541e1186"
+    },
+    {
+      "start_time": 353,
+      "end_time": 399,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The people, you know? I came, and as soon as I came, my neighbors were already waving [at me]. Because we're Mexican, that’s what we do, right? They feel the trust that if they need something, they know they can count on me, and I can count on them. If they know that I'm sick, they’re [bringing] me food. If I know that they're sick, I'm going to do the same thing, right? And that was unique. And it still is. Because still, if I go visit them, they'll receive me with arms open. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "944075fb-17b7-4ad6-88a1-1f9ea05b9d9b"
+    },
+    {
+      "start_time": 400,
+      "end_time": 444,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's just that that is not my home [any]more, right? And somebody else has that home. And I pass by it, and it’s like, “Oh my gosh—the plants are growing and the trees are already big.” Things that I planted. I wanted those trees so I could put a chair [under there]. I never read, but that was my plan—when those trees grew, I was going to sit there and start reading. And the backyard was huge with plants, flowers. I always kept all of that going because that was my de-stressor. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Change",
+          "category": "Evolution"
+        }
+      ],
+      "uuid": "0e9ca52a-4982-4e91-87f1-2d7db64c7177"
+    },
+    {
+      "start_time": 446,
+      "end_time": 466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And there were always seeds of some kind growing—cilantro, tomatoes, chiles, and whatever we needed. And my neighbors knew they could go and grab [vegetables]. And that was beautiful."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "0c393538-196a-4b71-8805-bf0edeaedd64"
+    },
+    {
+      "start_time": 467,
+      "end_time": 469,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you feel as welcomed in Cedar Creek?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "6b17d8b7-8cf9-46cc-8835-89ac496756f3"
+    },
+    {
+      "start_time": 469,
+      "end_time": 488,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No. In Cedar Creek, the homes are far away from each other. If they talk to you, it’s like, “Hi. How are you doing?” And that's because they're Mexican too, and well—not all of them—but it’s not the same. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Change",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "5ec92906-f772-46ba-b697-a584d23834e2"
+    },
+    {
+      "start_time": 489,
+      "end_time": 516,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It’s a different culture, just because all of us are so busy. We don't have time to sit down and have a coffee. Everybody works all the way over [in Austin], so they leave real early in the morning. They get home at about seven or eight [at night]. So, when do you get to visit? You don't."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Change",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "590f1d34-97e1-43b0-b50f-881e0dd73def"
+    },
+    {
+      "start_time": 517,
+      "end_time": 525,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What have been the most significant challenges for Dove Springs? How have you seen it change in the 27 years you were here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "892dbf8e-6548-412c-86dd-bb83a33ed013"
+    },
+    {
+      "start_time": 527,
+      "end_time": 556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think the fear throughout this [neighborhood]. For years, people have [gone from] being in this peaceful, happy, outgoing place where you could be free, going [out on] your street and walking there to not wanting to go out because it’s not safe anymore. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Past v. Present",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "b5a18a8a-45c5-46a2-ae52-162522f7f8a0"
+    },
+    {
+      "start_time": 556,
+      "end_time": 560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It doesn't look the same [any]more, because we've been gentrified pretty bad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Change",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "fcb2bf2b-55eb-4b31-a65a-e9f261cc11fe"
+    },
+    {
+      "start_time": 560,
+      "end_time": 579,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But in the [neighborhood], people don't want to open their doors [any]more. I have gone knocking on doors and [they say], “I'm not interested,” and they close the door. They don't give you a chance to explain what you're trying to do. And so, it is different. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Change",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "99e0f761-a13f-449d-9971-86e1523170f6"
+    },
+    {
+      "start_time": 580,
+      "end_time": 615,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And now with taxes and with [these other things], [people] don't know what to expect. My neighbor, he's retired, and his wife doesn't drive, so he's the only driver. He's losing his eyesight. So, he’s like, “If we're forced to leave, what are we going to do? She doesn't know how to drive. I'm going to [go] blind. And who’s going to take us to the doctor?” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "5a535ebe-f4ba-4aec-927d-76cf59b491db"
+    },
+    {
+      "start_time": 618,
+      "end_time": 662,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "His home is right at the corner of Pleasant Valley and [Creek Bend Drive]. So, he worries a lot, and I think it’s one of the causes that his blood pressure [is] too high and [he] has been close to having a heart attack. He has gone to the hospital because of things like that. And I believe—I really believe—that it’s because of the stress that he worries about how his wife is going to make it if something happens to him. He loves his wife very much, and they’re always together. And now both of them are alone at the house. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "8acafbc5-a2ac-44ee-b2b8-67b9fd30f69d"
+    },
+    {
+      "start_time": 663,
+      "end_time": 676,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, they’re always laughing, and I love to see them together, because they are a model. At least outside, right? We don't know what goes on inside, but outside, they’re always smiling. They're always talking to each other. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "7ced085e-f4bd-44ee-85f0-02a141bb49fa"
+    },
+    {
+      "start_time": 677,
+      "end_time": 731,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I really do feel that it’s fear that has been concentrated on in these places where you feel threatened that you don't know what to expect tomorrow: “Would I have a place to go to if I need a doctor? Would I be able to make it on time?” Because also in Cedar Creek, since you're far away from everything, it takes a long time before the response team gets to you because they don't have a lot of ambulances. The [people] barely voted for 12 more, but they only had two. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "54a7a898-8f82-443d-851e-19e923ba1b75"
+    },
+    {
+      "start_time": 732,
+      "end_time": 766,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, over there, they have volunteers, community members, that respond to a disaster—not a disaster. . . well, that too—but to an accident. If there’s a need, they go and keep the person alive while the ambulance gets there. So, there is a plan, and it’s working so far, but it’s not sustainable, because if I don't have time to go and respond, you know it’s not going to happen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "265a0bb5-8075-4081-b451-feb644fc3ca1"
+    },
+    {
+      "start_time": 767,
+      "end_time": 779,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, when you think about Dove Springs, what places come to mind? What places hold significance for you? Churches, creeks, meeting places, parks?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "109b8e7c-bd71-4e1f-ba99-d620ae68d589"
+    },
+    {
+      "start_time": 782,
+      "end_time": 786,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think that church is just eight minutes away instead of 40 [minutes]. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "53e0e356-b5cc-4f44-b731-7981cb327ac0"
+    },
+    {
+      "start_time": 786,
+      "end_time": 787,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What church? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "b67097b4-2d4f-44a7-851c-81ed0faaeabd"
+    },
+    {
+      "start_time": 788,
+      "end_time": 789,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Victory Outreach. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "44751288-263c-40dc-b89f-75e72a77f39f"
+    },
+    {
+      "start_time": 793,
+      "end_time": 819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have connected a lot [to the Church], and that’s what has kept me from losing it. Because if you have faith, and you know that if you carry all of this, you could just go and drop it there at [God’s] feet, and He’s going to take care of it. You turn around and you leave it there. And that has kept me a lot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "777fea4d-5a0b-4ec3-a208-7149f061d316"
+    },
+    {
+      "start_time": 819,
+      "end_time": 853,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then, of course, nature, because this is as close as you can get to Mexico. I know we don't have water anymore in the creek, but it used to have water. There are stories the residents tell us about their kids fishing at the creek. [These stories are] amazing: being in bed and hearing the water running, because they live right next to the creek. So, it’s that special."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality / Env’t Indicator"
+        },
+        {
+          "tag": "Change",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Collective",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "9af087b3-9f74-41cd-ae5b-ba88dc5a3eb1"
+    },
+    {
+      "start_time": 854,
+      "end_time": 862,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, tell me about this idea: “This is the closest you can get to Mexico.” You were in Mexico until you were six years old?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "7a7f0d82-4e6d-4653-84c2-f7267ab1b549"
+    },
+    {
+      "start_time": 862,
+      "end_time": 864,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Until I was around eight [years old]. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "96048967-deeb-4040-bf28-51a992d6fea9"
+    },
+    {
+      "start_time": 865,
+      "end_time": 878,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, tell me your experience growing up in Mexico. Really thinking about your relationship to the land, the environment, being outside in nature there—what was it like to come here? Did it feel familiar? (Frances makes a face. Laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "4a41d197-d785-4da4-b7ba-a0cb76f9f6ea"
+    },
+    {
+      "start_time": 879,
+      "end_time": 882,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How? Tell me more about that. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "7b8f009e-925b-485a-bcc9-44953295eeb2"
+    },
+    {
+      "start_time": 883,
+      "end_time": 913,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, my family was very, very poor. Our home was made out of sticks. The roof was palm trees, and our beds were made out of . . . what do they call them? . . . the carrizos. Can't remember what they're called, but they're sticks, and my mom would just put a blanket over it, and that was it. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "1dd6b283-efd6-48d7-bafc-475ec746e230"
+    },
+    {
+      "start_time": 915,
+      "end_time": 953,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We didn't have clothes, or it was just the basic [clothes]. Most of the time, we were barefoot. But I think that's what kept us sane: the touch with the ground. Now I'm like, “We need to go and step on the grass and hug a tree.” And we were. . . actually, that was our everyday way of living: you take a shower in the river and go back home and you're wet [but] you’ll get dry along the way. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "bf927975-9bdc-4f1d-a065-fc855edd545b"
+    },
+    {
+      "start_time": 954,
+      "end_time": 988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And my mom would send us to get chiles from the mountains, because when the [chili season] begins, they will grow in the mountains. So, we all go and bring chili—that was our food. And then the corn that my dad would harvest. All of that was saved for the winter. It was pretty basic, but we ate, right? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "53ed63c5-a01d-4c81-867b-dd9d5a9fa680"
+    },
+    {
+      "start_time": 989,
+      "end_time": 1020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My dad was an alcoholic, but my mom was a go-getter. She was the strength of everything. Her way of doing things may have not been the best, but that was all she knew, right? We used to get up early in the morning, and that comal, the corn, was cooked, and we would just make it into masha and the tortillas. Five o'clock, six o'clock in the morning, she [would] clap [tortillas]. (makes clapping noises)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "0399d9ab-5e46-4ba4-8dbb-3cda48c39bb0"
+    },
+    {
+      "start_time": 1021,
+      "end_time": 1026,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You would hear all this, and it's like, “Get up! It's time to eat.” [At] six o'clock in the morning, we were eating breakfast. (laughter) "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "e235f6db-4105-438a-9c25-c52b3979e04b"
+    },
+    {
+      "start_time": 1027,
+      "end_time": 1041,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And by breakfast, I mean tortilla and chili, because we hardly ever had eggs or meat. So, our food was just beans, which we [would] also harvest, and the corn [for] corn tortillas. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "e74bf6a1-32e2-434e-9c88-28e45640c93e"
+    },
+    {
+      "start_time": 1042,
+      "end_time": 1063,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And in the winter, she would . . . we didn't have a stove, but it was made out of mud . . . and she would put us up there so we could warm up. She was making the tortillas, and she would make the taquitos, and she would give [them] to us. And so, it was very basic. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "4936a991-53cb-4e6f-87cb-248a7dee8c65"
+    },
+    {
+      "start_time": 1065,
+      "end_time": 1083,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[People in Mexico] had their own way of [doing things], like diverting the water whenever it rained. And they would make canalitos—like little streams—just [to] divert the water to different areas. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "eecf260b-d92d-47e0-97ea-ce0f4da97b85"
+    },
+    {
+      "start_time": 1084,
+      "end_time": 1140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I remember when I came over here that I couldn’t understand [why] we were flooding in Dove Springs. And it would take seven years, ten years, for [the City of Austin] to do something about the flooding issues that we were having. And it [was] like, “We have to do studies, and we have to do contracts, and we have to go to the City Council and we have to…” It’s like, “How hard [does it have to be]? [How many] more studies do you want [other] than [the experience of the water], how fast it goes through our legs, how much water [is going into our houses]? What other studies do you want?” The water is going into people's homes! There’s no studies there. The water is there. But that's the system over here, right? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        }
+      ],
+      "uuid": "788657cd-240f-4879-97fe-bb47ad99adf5"
+    },
+    {
+      "start_time": 1141,
+      "end_time": 1168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I remember when I came back—I mean, when I came to the United States the first time, I didn't know how to use the carpet. “How do you clean it?” [You need] to clean the furniture in a different way. We didn't have furniture over there, right? And so it was a learning experience. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "e5eb0c4a-ee1f-42ba-a526-d346307a9bfa"
+    },
+    {
+      "start_time": 1169,
+      "end_time": 1196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have to learn the hard way, because you're not with your parents no more. So, you're with people that mistreat you. You're with people that you have to work for, you have to cook for, you have to do everything [for]. And plus: go to school and then come home and cook and clean and take care of the cattle and take care of the dogs and yard and everything in the house. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "f45a348d-72b2-421c-89c1-e948c62a84e2"
+    },
+    {
+      "start_time": 1198,
+      "end_time": 1213,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It took me about four years to learn how to have a house clean [to the point where] I didn't have to cry. I was always crying, and I was also suicidal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Personal Privilege"
+        }
+      ],
+      "uuid": "b335b3f5-39a7-4ed3-a489-e0a686a3f1d6"
+    },
+    {
+      "start_time": 1214,
+      "end_time": 1215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When you moved?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "ac8282f1-fde4-4f9f-9d2d-3308cecbcfe1"
+    },
+    {
+      "start_time": 1215,
+      "end_time": 1225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I moved. When I got over here. Because I was always crying, [and] I didn't know how to do things, so they would always get after me. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "1684564a-6034-4963-8678-137680985813"
+    },
+    {
+      "start_time": 1227,
+      "end_time": 1257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But at the same time, I don't think I would change anything [about that experience], because now I'm a strong person. I am proud of what I am now. I may still have some of that trauma. If I hear fighting or arguments, that [trauma] still comes. But I get to reflect and go back and address it. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "8d965abd-705b-4ab9-9c47-7f3242b4d48c"
+    },
+    {
+      "start_time": 1258,
+      "end_time": 1269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While it’s happening, I may get quiet. I may just agree to keep the peace, but then I go back [and reflect]. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "d70ab47c-cec2-4e63-938a-85c0a10d76a2"
+    },
+    {
+      "start_time": 1272,
+      "end_time": 1275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now I don't shut up. That’s easy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "ec9446ed-663b-48ec-bf01-451ae5f0b7b0"
+    },
+    {
+      "start_time": 1276,
+      "end_time": 1289,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you think the relationship to nature in community—how community was in relationship with nature . . . was that different in Mexico than here? Did you notice a difference? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "a8472e58-0ebb-49fd-aecc-c0b6997a6c03"
+    },
+    {
+      "start_time": 1290,
+      "end_time": 1317,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is, because many times people [here]… to waste time or de-stress, they [would] rather go to the mall instead of going to the creek or to the park. And I’m not a fan of the mall, but I hear that a lot of the people get excited when they go to the mall.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "e98f7575-8c79-4bbc-bf3b-50f8b980767e"
+    },
+    {
+      "start_time": 1322,
+      "end_time": 1357,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not even my kids get excited because we [would] rather go to the park. We go and buy something to eat, and then we’ll go eat it at the park. Because it just connects us more, and we have more time with each other, even though now [with] phones and all of that get[s] in the way. But sometimes we’re there [together] and we’re texting each other, and [we’re] right there [in front of each other], and I’m like [sarcastically], “I love this family/quality time, you know?” And then we just put the phones down. (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "4f94d0cd-19bd-4da8-bd21-7574aec1991a"
+    },
+    {
+      "start_time": 1358,
+      "end_time": 1396,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But it’s amazing the impact that nature has in the way that you see things, in the way that you [understand] problems and struggles. It’s a different mentality. It seems like whenever you rely, let’s say, on [going to] the mall . . . even though your mind is busy [there], I don’t think [the mall] gives the same oxygen in the head, or you don’t . . . it doesn’t give you the same analogy of things."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "f863b9de-9256-415b-911d-d5c219cd2ce6"
+    },
+    {
+      "start_time": 1397,
+      "end_time": 1412,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You mentioned going to the creek instead of the mall. What creeks did y’all live by? Which ones would you frequent, and what bodies of water would y’all visit here in Austin with you and your kids? Where would you bring your kids growing up?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "d74f3dff-c37d-47f2-85a9-52970348c306"
+    },
+    {
+      "start_time": 1413,
+      "end_time": 1418,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "East Williamson Creek was our creek, and we’ll just go walk all the way to the [Rec Center]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "1180fbcb-768e-4367-ac98-d490a17fb0b0"
+    },
+    {
+      "start_time": 1419,
+      "end_time": 1422,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Has it changed much, or is it still a pretty natural creek?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "aa7b3958-8e34-4e56-a9e4-1acf6c403159"
+    },
+    {
+      "start_time": 1423,
+      "end_time": 1428,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It’s a dry creek, because it doesn’t have water no more, except if it rains."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Change",
+          "category": "Evolution"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality / Env’t Indicator"
+        }
+      ],
+      "uuid": "88db63c2-056d-4267-a506-45854e1b7169"
+    },
+    {
+      "start_time": 1429,
+      "end_time": 1434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What would your kids do there? Do you remember frogs, insects? (cross talk)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality / Env’t Indicator"
+        }
+      ],
+      "uuid": "bcc08eef-32e6-4075-8a9d-25f2db20d0f1"
+    },
+    {
+      "start_time": 1434,
+      "end_time": 1435,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality / Env’t Indicator"
+        }
+      ],
+      "uuid": "78c15084-bab4-4822-9dcb-0a7acd5be0d8"
+    },
+    {
+      "start_time": 1435,
+      "end_time": 1447,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tell me all the little details you remember. And then, as [you’ve] gotten older, do you see the same types of animals and insects? Or do you feel like there have been changes in that regard?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "62931660-3004-4e0a-a151-35265d2228d2"
+    },
+    {
+      "start_time": 1448,
+      "end_time": 1471,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I guess as we were growing. . . as [my children] were growing. . . Well, both of them, but my smallest [son], he would grab rocks. So, I have a huge container of rocks because he brought them, [and] he was thinking about me. (laughter) "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "4abd4fd1-8b7a-4f33-8081-8c11cfe49dc3"
+    },
+    {
+      "start_time": 1472,
+      "end_time": 1499,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, it’s those things that there are [special]. Just because somebody thinks about you. They don't have to bring you something expensive. A small, little thing [like] a rock: that meant something to them, or it was pretty. So, I have tons of rocks because those were thoughts. [Those were moments] when they thought about you, and they brought you a rock. And so, it’s those little things."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "30021065-0e6f-4d69-8c3c-ef702a4d566b"
+    },
+    {
+      "start_time": 1500,
+      "end_time": 1525,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And they would go and pay attention to the different bugs in the water, because the water was good. And there were the little frogs, the tiny little ones, and there were the tiny little fishes in the little ponds right there. So, it was pretty good. It was fun. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality / Env’t Indicator"
+        }
+      ],
+      "uuid": "8ca18144-7700-4ca9-9a33-2e1a45b20ee8"
+    },
+    {
+      "start_time": 1525,
+      "end_time": 1539,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And you're not thinking about. . . You know, you go to the mall, and you want to get a phone. You want to [buy] some more technology or more clothes and you spend [money], and then you’re like, “Why did I spend all this?” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "f4ad3dbc-7aad-4c71-9a3c-3196d993fd22"
+    },
+    {
+      "start_time": 1539,
+      "end_time": 1547,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But here, it’s nature—you don't spend anything, and you just get your mind open into different things."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "762605f8-ef44-47e0-b054-827789e925d1"
+    },
+    {
+      "start_time": 1548,
+      "end_time": 1565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you remember anything about the water that's changed over time? You said it’s dry, but when there are pockets of water, do you feel like there’s more algae, or has the temperature or like the color of the water changed? Anything you’ve noticed there, or not necessarily?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "b9e9fda6-58d3-48bb-ac7f-8b0536ae0bda"
+    },
+    {
+      "start_time": 1566,
+      "end_time": 1603,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it’s because most of the time now, it’s rainwater. Unless it rains pretty hard, the water comes from upstream. At that time, [the water] comes with everything else upstream, with trash, feces, and everything, because there are so many encampments along the creek that, unfortunately, it’s very dirty. So, all of that kind of makes you think. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality / Env’t Indicator"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        }
+      ],
+      "uuid": "c88c5cfb-5e5a-4f86-81ea-07ab452488d0"
+    },
+    {
+      "start_time": 1604,
+      "end_time": 1622,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it kind of made me think [about] one day that I took Cheyenne—my dog—she went straight into the water like she always did, but this one time, she just. . . she was going to get in the water, and she just goes like this (demonstrates pauses), and she stops. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality / Env’t Indicator"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "0466cd7b-0c8a-4571-9f3d-1c981bd31d43"
+    },
+    {
+      "start_time": 1622,
+      "end_time": 1643,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She smells the water, and then she goes back. I go, “What? You're not gonna swim? You're not gonna get in the water?” She didn't. And I'm like, “I bet you this water has some kind of contamination.” And she's very smart, but it makes you think, right? (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality / Env’t Indicator"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "8e52df36-a5f7-4ab9-bfb4-8eea2d7220d5"
+    },
+    {
+      "start_time": 1643,
+      "end_time": 1657,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because before, we used to walk in the water, and then I saw that [with my dog]. So now we’re making little bridges with rocks so we won't step [in the water], because we don't know what’s in there no more."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality / Env’t Indicator"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "a110ff9b-334b-4439-8db7-da0ad3cd75eb"
+    },
+    {
+      "start_time": 1658,
+      "end_time": 1661,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, you mentioned flooding. Is that the creek that floods?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "3b78abd7-9fb7-4970-b15d-a3c1adbf1606"
+    },
+    {
+      "start_time": 1662,
+      "end_time": 1682,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It’s a pretty big creek. And yes, the water comes from upstream, but it doesn't necessarily. . . we don’t necessarily flood from the creek. We flood from the localized flooding with all the impervious cover. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality / Env’t Indicator"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        }
+      ],
+      "uuid": "8c3fb311-ba8d-4ab9-b7eb-cc64390983c6"
+    },
+    {
+      "start_time": 1683,
+      "end_time": 1709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The water coming from upstream is on [Stassney Lane]. Stassney’s pretty high. I think that's the highest point: Stassney and [Teri Road]. All that water comes downstream. And then we have over here on this other side—on the west side—that water comes down into this area, and everything is run off water."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        }
+      ],
+      "uuid": "96b9a121-5b97-498b-90f2-4ffce0efc953"
+    },
+    {
+      "start_time": 1710,
+      "end_time": 1717,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Has flooding gotten worse over time, or that's been a pretty consistent issue?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "c172eb5d-f291-4715-99d1-9a910a90f5d7"
+    },
+    {
+      "start_time": 1718,
+      "end_time": 1735,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's been consistent. But right now, it’s been… Normally, we will get flooded like every two to three years. Now I think it's been four [years], and we haven't flooded. We've been close to [flooding], but not [flooded]. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        }
+      ],
+      "uuid": "de74e338-326c-455a-9009-bd603c3b7613"
+    },
+    {
+      "start_time": 1738,
+      "end_time": 1759,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The city is working—right now as we speak—they’re deviating some of the water from the Brassiewood Pond into East Williamson Creek, so we could be able to get a little bit of that water out of the people’s homes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "ffdb60ae-6cbe-4f01-bd03-6c7703e965d7"
+    },
+    {
+      "start_time": 1760,
+      "end_time": 1763,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How does the flooding affect your household? Or did it when you were here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "84f591a9-ffa6-4969-ae6f-8e90810539f1"
+    },
+    {
+      "start_time": 1764,
+      "end_time": 1779,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I didn’t get flooded, but it got to the edge of the door, and that was pretty scary. It did break the slab on the bottom, but other than that, it was good. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "8c87c122-973c-4d01-9396-19bac5d2e154"
+    },
+    {
+      "start_time": 1780,
+      "end_time": 1797,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When that happened, I went and I opened the gate, because we had private fences. So, I opened the gate, and all that water came out, and it flooded my neighbor. I didn't know... I didn't know I was doing that [causing my neighbor to flood]. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "45652d8a-0c67-4ce2-b961-55717887ce44"
+    },
+    {
+      "start_time": 1798,
+      "end_time": 1829,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that’s some of the things that Watershed Protection is worried about. We don’t want to cause somebody else’s [house] to flood. And I caused it. I wasn’t thinking. All I was thinking is, “If it keeps raining more, this water is going to come in here.” I didn’t think that my neighbor was lower than my house, and they got flooded."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "fbaf4791-487a-4a45-b4a6-45d6f6cd8a04"
+    },
+    {
+      "start_time": 1831,
+      "end_time": 1842,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Have you taken on any issues to address the flooding concerns or water quality concerns or other environmental concerns over time in Austin? What has that looked like?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "13731260-3c58-47d9-8b9c-86ea885428bc"
+    },
+    {
+      "start_time": 1843,
+      "end_time": 1848,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That’s been like a twisted road, because I have done so much. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "286eca0b-efab-491a-8d11-311d32a2d560"
+    },
+    {
+      "start_time": 1848,
+      "end_time": 1884,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I’ve taken so many trainings on flood mitigation, a lot of trainings on disaster preparedness, a lot of advocacy with City Council, with Watershed Protection, with Emergency Management. It’s been [a lot of] having meetings with residents. I trained them on how to anticipate, prepare, and respond to disasters, so they could be able to just get their bag and get out of their homes to evacuate. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "7458b521-cbf2-48a6-a3c6-5c7cda290fd1"
+    },
+    {
+      "start_time": 1886,
+      "end_time": 1928,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I believe it was 2019, if I’m not mistaken, [when] we got flooded, and they had taken their training already, and so [the residents] were ready. They came. They all came. They all called 911, like we practiced, like we studied, and trained, and everything. I was so overwhelmed, because I was hearing everything [that they were saying]: “What do you want me to do? Where can we go? What can we do?” And I was [almost] excited because I was happy that they were ready. (laughter) "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "1716ee79-892f-4910-a858-758cce6e406d"
+    },
+    {
+      "start_time": 1929,
+      "end_time": 1967,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They had their backpacks. Their grandparents were out. Their kids were out. Because in 2015, when they got flooded, the kids were trapped in the house, and the father of the house had to break the window so they could get their kids and take them to the store. So out of [that flood], we started training [on how to be] better prepared for the next one. So, when it did happen, they were ready. Everybody was out. It was only the adults that were left in the homes, so we could help. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "58538177-5d21-4f6e-8157-9e3715a21efe"
+    },
+    {
+      "start_time": 1969,
+      "end_time": 1993,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And through that, I think we did a training, because when I came to ask or when residents called the city, [our call was not treated as]: “It's an emergency.” It [was treated] as: “It's a nuisance” kind of a thing. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "614e52f2-90e1-4545-92c8-30f6cf3cf3f5"
+    },
+    {
+      "start_time": 1994,
+      "end_time": 2006,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The police was there blocking the road. And I go in there, and I am like, “Residents are flooding.” And his response was, “And what do you want me to do?”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "0b3d7de9-91f8-4946-bfd3-102102f4de2b"
+    },
+    {
+      "start_time": 2006,
+      "end_time": 2009,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm like, “I don't know. Go look pretty, at least, over there.” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "58256c5e-27dc-4548-a899-e540a776cdba"
+    },
+    {
+      "start_time": 2010,
+      "end_time": 2037,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But something, somebody needs to give [residents] comfort, so they could feel safe. Because one thing is [when] you [are] standing there by yourself, watching the water go into your home. . .  and another thing is having some kind of authority there for support, maybe not doing anything. But just having them [there] is comforting. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        }
+      ],
+      "uuid": "a779bd9f-a1ab-456e-8169-6489bc6248f1"
+    },
+    {
+      "start_time": 2038,
+      "end_time": 2071,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The fire department goes, “Ma'am, we need to let …”--well, how is it that he said?--“. . . nature take its course.” [They mentioned] flood insurance. I can't remember the exact sentence. I repeated it many times: “Let the insurance deal with it. We have to let nature take its course.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        }
+      ],
+      "uuid": "373fa862-7af2-42dd-85fe-4ec2bacba836"
+    },
+    {
+      "start_time": 2071,
+      "end_time": 2120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was like something came in my stomach and it tightened, and I got mad. The residents were like, “Francis, it's okay. Don't worry about it. We’ll just stop.” Because the fire department wanted me to stop the residents from doing something crazy. But [the residents] were in desperation. They were [getting in] their trucks, driving back and forth, trying to take the water out of their home on the street with their trucks. So, it’s not a good idea, because it’s a street, but that was their only way. And they did stop. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        }
+      ],
+      "uuid": "186eaff3-007a-43cd-a5cb-d4063d284856"
+    },
+    {
+      "start_time": 2121,
+      "end_time": 2161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then, from there, I calmed down. And, actually, from that came a good conversation and a good relationship with Watershed Protection and the Fire Department. And that’s where the book came: The Dove Springs Disaster Preparedness Plan. And we made that with the support of UT and its Office of Sustainability, Watershed Protection, and I believe, if I’m not mistaken, also Emergency Management. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        }
+      ],
+      "uuid": "73985399-26fc-49a2-942f-b37ec4972603"
+    },
+    {
+      "start_time": 2161,
+      "end_time": 2175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But it was a very good partnership that we started from there, and. . . .yeah. . . . it was a trip."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        }
+      ],
+      "uuid": "b7b97e9c-13a2-4522-9191-a0fbb10040b7"
+    },
+    {
+      "start_time": 2175,
+      "end_time": 2192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do you make of how the local government has addressed residents’ concerns or water quality issues? How has that relationship been between community concern and how local government acts?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "63f08b58-1cc2-49ed-9b18-bda07bebe7de"
+    },
+    {
+      "start_time": 2193,
+      "end_time": 2213,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't think there’s a relationship. When it comes to water quality, there’s a lack of information. And whenever it comes, it’s not addressed at the level of understanding of the people that live in this area."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality / Env’t Indicator"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Env’t Health"
+        }
+      ],
+      "uuid": "e9c9537c-b866-4f9c-9e58-414a271e854a"
+    },
+    {
+      "start_time": 2213,
+      "end_time": 2214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Say more about that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "a475db20-aa30-46a9-8e6d-5fe48c766c9e"
+    },
+    {
+      "start_time": 2216,
+      "end_time": 2242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Like I go to meetings and many times I don’t understand. They use acronyms, or they’ll use a high level of conversation that’s hard for me to understand, that I have to literally write a word [down] and then Google it. So, half of the time I spend googling words that I don't understand. So, you get half of the information. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "In Group v. Out Group",
+          "category": "Community"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "0eb68f1c-377c-4509-b878-d4643d198689"
+    },
+    {
+      "start_time": 2243,
+      "end_time": 2284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, lack of information from government agencies gets in the way of a better quality, better consciousness, on how to conserve and preserve water. It’s like you don’t know that you need to conserve water if you don’t know there [are] issues. You don’t know water quality—[or] that there [are] issues with the water quality. If you don’t have the information, [then] you [think] that it’s good to drink [the water] because they [would] tell you [if it wasn’t good]. But is it? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "In Group v. Out Group",
+          "category": "Community"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "6d83b962-e5c5-406a-88a0-cceff6ed6a09"
+    },
+    {
+      "start_time": 2285,
+      "end_time": 2298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, that is a lot of the gap: the language barrier between stakeholders and community members, residents."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "In Group v. Out Group",
+          "category": "Community"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "2a08ee9d-c91b-4350-91c9-4eadc2740983"
+    },
+    {
+      "start_time": 2300,
+      "end_time": 2304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is there ever a translator?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "ee6e63d9-302c-40f0-a2fe-5d97911b3369"
+    },
+    {
+      "start_time": 2306,
+      "end_time": 2323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We haven’t done it. And actually, I just got an email from, I believe it's “U.S. Water Alliance.” I can’t [remember]....yeah, I think it's them. They're going to be having a webinar. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "In Group v. Out Group",
+          "category": "Community"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "7ea986b4-8424-4a71-947b-654d66e6d9ae"
+    },
+    {
+      "start_time": 2324,
+      "end_time": 2336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, webinars don’t necessarily talk to you [or your concerns]. You don’t talk to them. You don’t give information. So that’s one of the gaps and barriers: you just listen. There’s no feedback, there’s no nothing. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "b45602ae-c626-474f-8106-e71941f53669"
+    },
+    {
+      "start_time": 2337,
+      "end_time": 2372,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I asked if we could have a translator for [the webinar] so I could bring residents, because you cannot bring information in half of the language we don't understand. And the water crisis right now is getting bad. There’s so many areas that don't have any more water, that are having to buy water from other areas—and we don't know that. That information is not passed down to residents. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality / Env’t Indicator"
+        }
+      ],
+      "uuid": "84159263-aa05-47dd-a358-15c3ecfcb893"
+    },
+    {
+      "start_time": 2373,
+      "end_time": 2414,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For example, Kyle. Kyle doesn't have water. Do residents know that they don't have water? That's a good question. Do they know that Kyle has to buy the water from another city? Do they know what kind of water they’re getting if they’re buying it? Then they pump it to the container and then give it to residents? Or is there a pipe from, let's say, Red Rock all the way to Kyle? And the quality of the water in that area is not so good, at least in my experience with my home."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality / Env’t Indicator"
+        }
+      ],
+      "uuid": "467e69f0-06f5-43d8-847f-2892af7b3844"
+    },
+    {
+      "start_time": 2415,
+      "end_time": 2419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What would be your ideal future for Dove Springs?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "13c5e2a8-a85d-415d-8ea2-e99d9e444b65"
+    },
+    {
+      "start_time": 2424,
+      "end_time": 2462,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think [the future should be] for the low-income residents that have been here forever, because we still have a few veterans from the military that used to be in this [area]. They used to have this [area] where they’re home. And we still have a few of them in this area, and now they’re not able, or it’s very hard, for them to pay for their home. Or I’m pretty sure it’s paid already, right? But it’s not enough—the check that they get so they could be able to survive. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "5c49fe93-779b-412f-b001-2091edb72dbc"
+    },
+    {
+      "start_time": 2463,
+      "end_time": 2478,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I remember having a conversation with one of the residents, and they were military, and she was like, “Oh, honey, don't worry, we already signed the house to the city.” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "ef6f25df-fbc9-4702-bbbb-c9bc3a7617f9"
+    },
+    {
+      "start_time": 2479,
+      "end_time": 2480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I'm like, “Huh?” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "44fcb2ef-8e04-4ad9-8ebf-b2c4921722d8"
+    },
+    {
+      "start_time": 2481,
+      "end_time": 2500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And maybe in her understanding, the city [meant] somebody else, I don't know, but [the arrangement was that] she wasn’t going to pay taxes. And when she died, that house was going to go straight to the city. And I don't know [to] what department. She just said “The City” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "3e001ed0-01c4-42b2-9238-6fe0280c034b"
+    },
+    {
+      "start_time": 2500,
+      "end_time": 2540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But to me, it was like, she has grandkids, she has daughters. Why would the house go to the city when she has kids to give that house to? They worked. They served our country. You know, [her husband] couldn't afford his hearing aid. He got one with Medicaid, and they lost it. You don’t qualify for another one for. . . I don't know how long, and he just couldn't hear because he had been in war, and [veterans] lost a lot of their abilities. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "7bfb74b6-1182-4ad9-aae6-e169c651813f"
+    },
+    {
+      "start_time": 2545,
+      "end_time": 2567,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think that was one of the saddest stories that I heard, because they were in a situation where he had to walk to the bus, go to H-E-B, buy a little bit of groceries, and come back. And they were loving people. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "bf615c37-26a6-4bfa-9f73-e61419e39693"
+    },
+    {
+      "start_time": 2570,
+      "end_time": 2588,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Those are the stories that make me mad, and then I want to move the world for them. But I feel useless—or maybe not useless—but not able to do anything because it's beyond my control."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "eec0e137-e2a2-42ad-ab18-03f9cfe94214"
+    },
+    {
+      "start_time": 2590,
+      "end_time": 2600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do you think would have to happen for this ideal future to come to pass—a future where residents like him have the resources and support they need?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "1c818297-b46d-4a75-9cf3-6ceba81b161b"
+    },
+    {
+      "start_time": 2604,
+      "end_time": 2629,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think communication with the city and support. Because they gave their lives, so the city should step up to the plate. They fought for their freedom, so they should be taken care [of]—him and his wife. And [they should not be taken] advantage of. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "72f7aefb-5971-48a2-abcb-e0c0e85c9f69"
+    },
+    {
+      "start_time": 2630,
+      "end_time": 2668,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And many of the other residents, I think if they have the knowledge, if they know what's going on… It’s like I tell the city, “You don't have to give us everything. Provide us with the information, with the skills. You don't have to give us $1,000 a month for a year. If you provide me with the skills for me to do something, you don't have to give us food stamps forever, if you can provide me with the skills.” The way that they do things: I don't think it’s sustainable. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "67c98535-e233-4f01-b68c-03382c6186fb"
+    },
+    {
+      "start_time": 2669,
+      "end_time": 2717,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I guess because I come from Mexico where you do your own thing—you eat if you have the willingness to put the seeds and grow and harvest, and where we don't. . . . nobody gives us anything. And here, I think we are. . . we are being controlled in a way. And it feels like, “We have to keep them here, so we’re going to give them what they need right now.” And then, I don't know, it’s confusing. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "5a9d8de6-047b-4dae-ba00-b89740fea7e3"
+    },
+    {
+      "start_time": 2717,
+      "end_time": 2741,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because when I remember when I almost lost my home, and [that’s] the reason why I came over here, was I didn’t have any food, not even sugar to sweeten the water for my son. And I was losing my house, I was losing my car, and I go to ask for food stamps, but I did have a truck, and they told me, “Sell your house and we'll support you.” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "ee0d9c25-0e84-4b9b-934f-e9c5a6cef011"
+    },
+    {
+      "start_time": 2742,
+      "end_time": 2755,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I was like, “I don't want you to support me. No, I'm asking to feed my son right now. How am I supposed to go to work?”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "47ddb9fb-e828-4dd9-91c1-3f604f16bb0b"
+    },
+    {
+      "start_time": 2755,
+      "end_time": 2758,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“Well, you don't have to work. We can support you.” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "c1257d49-816a-42a5-ab46-7a9a5354df6e"
+    },
+    {
+      "start_time": 2758,
+      "end_time": 2762,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I’m like, “I don't need anybody to support me.” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "3efbe758-54ce-4713-a9b4-421a72fdd61a"
+    },
+    {
+      "start_time": 2763,
+      "end_time": 2785,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, since a long time ago, the system has become controlling in a way that you can be dependent on them. I don't know, it seems like I don’t want to be in that controlled environment, so I work. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "bd486f34-ba3c-46a0-b5be-58d93aa01530"
+    },
+    {
+      "start_time": 2787,
+      "end_time": 2797,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Food Stamps are not enough. Medicaid is not enough. And I want to have. . . if I'm not going to have enough, I want to be able to be proud and say, “I work for it.” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "cbe25384-44c4-4ca3-a0fc-34cf7f9217ab"
+    },
+    {
+      "start_time": 2799,
+      "end_time": 2832,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I understand there’s people that are not able to, but even like that, we can train them. Even when you feel helpless, you can be trained and [have that seed of hope put in] and encouragement of doing for yourself. “Yes, help me right now so I could get on my feet, but teach me how to fish. Don’t just give me the fish.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "f09ad81f-1fdb-458e-8dcb-2f357b6ab65d"
+    },
+    {
+      "start_time": 2834,
+      "end_time": 2851,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My last question is about asking you to reflect on how much of your life and time and energy you’ve spent in community service and advocating for community rights. In all that time, what do you think has been the greatest lesson you’ve learned?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "2ca75dec-2c15-4d2e-aaf4-e3fc8ff0409e"
+    },
+    {
+      "start_time": 2852,
+      "end_time": 2857,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, my goodness, that’s a big question, and sometimes I wonder…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "1cd14d86-65b5-4afd-af1c-fc83b43698a5"
+    },
+    {
+      "start_time": 2859,
+      "end_time": 2877,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because I started advocating for my son—that was it. But I paid attention, and when they told me that I had more rights than the superintendent [shared with me], I was like, “Oh!”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "a56af6e2-6d53-4d0d-b94f-fc5cc7bfffe2"
+    },
+    {
+      "start_time": 2878,
+      "end_time": 2879,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What were you advocating for?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "097b4f52-467e-40ad-81ba-9bb26bb9d359"
+    },
+    {
+      "start_time": 2879,
+      "end_time": 2900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For my son to have his education the right way, because he had different learning abilities, and he wasn't getting [the support he needed]. To everyone, he was the troublemaker. He was the disruptor. He wasn't the good model student."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "de3d41e3-19ca-42de-a4c6-0a45d38bfea9"
+    },
+    {
+      "start_time": 2906,
+      "end_time": 2929,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I had to get out of my work. I was married then, so I did leave my job, and I was advocating for him. So, within that time, I started learning about my rights as a parent with a child with disabilities. And then, you know, just being involved in whatever issues I was looking at. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "5a5f0b78-6d6b-4a12-8a94-7fd99266e549"
+    },
+    {
+      "start_time": 2930,
+      "end_time": 2970,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[For example,] residents having issues with their children, [I would ask]: “Did you know that you can do this? Did you know that the superintendent has to pay attention to you? And that you have the right to say, ‘My son needs his education, and he needs it, right?’ And he deserves it, and there’s no child left behind. It’s a lie [right now]. How can you make it be the truth, right? Because it’s a lie right now. This child [is] left behind. It might be somebody else’s child, but it’s not ours. Is it because we’re of a different culture? Is it because we’re different?” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "30fdd2f6-a535-4c75-9e99-735bfd5b5771"
+    },
+    {
+      "start_time": 2971,
+      "end_time": 3010,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What they don't tell you, but you know, is that it’s us, the colored people. Because I didn’t see. . . I saw the difference between my son getting in trouble with a white person and getting in trouble with a brown person. They wouldn't do anything when he was in trouble with another Hispanic [person], but if he got in trouble with a white [person], he would be at the office. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "57378e4a-cfb1-4e26-88ae-48203cead467"
+    },
+    {
+      "start_time": 3010,
+      "end_time": 3026,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, you learn a lot, so you start getting involved more, because you get angry. And then it happens to my neighbor, and then it happens to my other neighbor, and then we start having meetings. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "7a08739c-6f13-4e25-a3c6-c1632f0b8cd7"
+    },
+    {
+      "start_time": 3031,
+      "end_time": 3045,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think I liked the fact that you see hope when you have a meeting, and you see these faces getting a spark. And [you think], “Well, maybe we can do something.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "5498b768-79cd-4dd5-9b34-36ec4ef2b3da"
+    },
+    {
+      "start_time": 3048,
+      "end_time": 3071,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But then you see the dissolution and the disappointment. And to me, that takes me up. Once in a while, you want to throw [in] the towel, but there’s always that one resident that comes and he’s going, or she’s going, through all this, and it’s like, “Well, let's do it. Bring me more people and let's just do something about it.” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "9508e741-a791-4005-9b52-d34840f99a40"
+    },
+    {
+      "start_time": 3072,
+      "end_time": 3098,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think that’s what has kept me going in this job: because you have that energy and that need that you see in the community. And it’s not only that I see it—I feel it—and then you want to do something about it, because these are human beings that are going through struggles that others don't see. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "3799770c-a23f-48cd-84f8-1db4641545fe"
+    },
+    {
+      "start_time": 3100,
+      "end_time": 3115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know the city doesn't see them. They don't see the[ir] pain, their struggles, their [experiences], them getting flooded in the way that impacts them. And I see it, so you want to do [something about it], and I do."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "059a4e34-5f50-4bd5-b926-8bef7e220c92"
+    },
+    {
+      "start_time": 3115,
+      "end_time": 3129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, when I got the opportunity of working as a community organizer with GAVA, Go Austin/Vamos Austin, it was like, “Oh, I'm gonna get paid for what I already do.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "9e43ce83-cbf2-4c68-927c-f8d0f8d2dedc"
+    },
+    {
+      "start_time": 3130,
+      "end_time": 3163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, I’ve been doing it since April the 17th—it’s been eight years working there. And I don't know if I’ll ever quit, but as long as they have me, I’m gonna be there doing this, because you’re doing it for the right reason. You care about people, and I think that’s what keeps you there in a place—the love that you have for the community, for the people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "9ded22c8-85f5-48e2-bc07-157ff88dd333"
+    },
+    {
+      "start_time": 3164,
+      "end_time": 3172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If I'm hearing you right, the thing you’ve learned most is that you have rights, and that as long as we’re working together, there’s hope. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "61fbaf54-e6f5-402f-ac78-5065109ddd65"
+    },
+    {
+      "start_time": 3172,
+      "end_time": 3173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "f77630a0-e1b2-4422-8198-77afb76f7b98"
+    },
+    {
+      "start_time": 3174,
+      "end_time": 3179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is there anything else you’d like to share, or something I didn’t ask you that you say, “you gotta know [this]?”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "4e9e8a78-98a5-4927-baea-dcd0155443f7"
+    },
+    {
+      "start_time": 3181,
+      "end_time": 3210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think with time I also learned that building that trust with different entities kind of started moving things, because I have to give credit in the different places. Like Watershed Protection, right? That was one of the [organizations], one of the departments, city departments, that came first in trying to build that relationship. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        }
+      ],
+      "uuid": "e67163a4-680e-4d84-afbf-e0c00be9ca3f"
+    },
+    {
+      "start_time": 3211,
+      "end_time": 3214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They're like, “You tell me what to do.” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "f6047260-edd2-4d64-b55e-172b6e3cdf46"
+    },
+    {
+      "start_time": 3214,
+      "end_time": 3231,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was like, “Okay, you come to my house for the first meeting. You’re not gonna dress all ‘makeup-y’ and no ties—you come as a human being. The way that you are at home, that’s the way you’re going to come, because you’re coming to a simple home with simple people.” "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "a7f12a96-7f5a-4bc3-aee9-98f02562a700"
+    },
+    {
+      "start_time": 3232,
+      "end_time": 3269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And they came in, and I think that was one of the best nights of meetings, because we had residents coming into my house. And I mean, Matt Hollon and Susan Garnett, Jana Renfro, they all speak Spanish. And Jose Guerrero, back then, was the director. And they all spoke Spanish to our community. And they were open to listen. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "f22f96b9-ec71-47f1-9cf0-dc7480ceac19"
+    },
+    {
+      "start_time": 3270,
+      "end_time": 3294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And yes, we had ups and we had downs, but residents were able to see that they cared, and that's all it takes—knowing that you're not in a job because of a check or because of health insurance. You're there because, yes, because of that, but because you care for the community. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "c0898fbb-9733-4054-90e9-cd8ec6723397"
+    },
+    {
+      "start_time": 3295,
+      "end_time": 3312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And yeah, that’s one of the things that I really love. And now I’m working with Natalie Lyell, John Cummings, and Christine Casebeer in Homeland Security, Emergency Management [HSEM], so we could build that same relationship as we have with Watershed Protection."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        }
+      ],
+      "uuid": "5ac6f6e5-4eef-47f5-9eae-9136f3370f11"
+    },
+    {
+      "start_time": 3312,
+      "end_time": 3313,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, you gotta go. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "e3a21a4a-923d-48e1-b270-44cbbed97f41"
+    },
+    {
+      "start_time": 3313,
+      "end_time": 3314,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "c76ba294-d3fb-42fa-abad-ff0d0f8a5fcc"
+    },
+    {
+      "start_time": 3314,
+      "end_time": 3323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This has been lovely. Thank you so much for sharing your story. I’m glad you had a time limit—I would have kept you going for hours. (laughter) "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "c7b011e4-691f-496b-a79f-17bcc9ddef87"
+    }
+  ],
   "set": "Default",
   "event_id": "a1df72b1-31d2-4e1e-9451-af2d6f27ddc1",
   "source_id": "96989566-4d52-43a8-83b0-542063391b5a"
