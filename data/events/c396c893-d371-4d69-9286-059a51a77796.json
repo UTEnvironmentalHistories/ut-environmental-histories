@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "30413301-3f16-4a8d-8d07-b9dc27f3e6df": {
+      "label": "Interview with Walter Kaapke Long",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://ia600405.us.archive.org/7/items/long-combined/Long%20Combined.mp3",
+      "duration": 4964
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Interview with Walter Kaapke Long",
+  "created_at": "2025-11-05T22:03:46.351Z",
+  "created_by": "UTEnvironmentalHistories",
+  "updated_at": "2025-11-05T22:03:46.351Z",
+  "updated_by": "UTEnvironmentalHistories"
+}

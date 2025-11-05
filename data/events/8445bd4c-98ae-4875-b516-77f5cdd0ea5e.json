@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "b60a6dd0-47a5-439e-8c97-ebb7af25c755": {
+      "label": "Interview with Ben May",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://ia600603.us.archive.org/32/items/may-ben-1967-02-15/may-ben-1967-02-15.mp3",
+      "duration": 2000
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Interview with Ben May",
+  "created_at": "2025-11-05T22:03:46.351Z",
+  "created_by": "UTEnvironmentalHistories",
+  "updated_at": "2025-11-05T22:03:46.351Z",
+  "updated_by": "UTEnvironmentalHistories"
+}

@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "6931295e-5a45-4a5d-a2ac-424b424c69ff": {
+      "label": "Interview with Sylvia Herrera 2004",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://ia902800.us.archive.org/9/items/herrera-2004-combined/Herrera%202004%20Combined.mp3",
+      "duration": 4779
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Interview with Sylvia Herrera 2004",
+  "created_at": "2025-11-05T22:03:46.351Z",
+  "created_by": "UTEnvironmentalHistories",
+  "updated_at": "2025-11-05T22:03:46.351Z",
+  "updated_by": "UTEnvironmentalHistories"
+}

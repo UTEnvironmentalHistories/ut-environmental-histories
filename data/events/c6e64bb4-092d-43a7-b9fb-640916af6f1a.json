@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "950bacf7-912a-4b48-baf6-47aef054cea2": {
+      "label": "Interview with Susana",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://dn721504.ca.archive.org/0/items/final-audio-susana-a-mar-072025/FINAL%20AUDIO%20Susana_A_Mar072025.mp3",
+      "duration": 5826
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Interview with Susana A",
+  "created_at": "2025-11-05T22:03:46.351Z",
+  "created_by": "UTEnvironmentalHistories",
+  "updated_at": "2025-11-05T22:03:46.351Z",
+  "updated_by": "UTEnvironmentalHistories"
+}
