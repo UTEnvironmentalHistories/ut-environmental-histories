@@ -4,7 +4,241 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Beauty of the Past",
+          "textSize": "heading-two",
+          "italic": true,
+          "color": "#3ea4b1"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "highlight": "#ffffff",
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "highlight": "#ffffff",
+          "text": "Close"
+        },
+        {
+          "text": " your eyes. "
+        },
+        {
+          "text": "Imagine",
+          "italic": true
+        },
+        {
+          "text": " that [place] you always visited as a kid. "
+        }
+      ],
+      "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "Maybe it was the park overlooking the meadow, or the cool springs you dived in for a splash on a hot day. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "Do you remember the chirps of the birds? "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "The whistle of the wind? "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "What do you miss about this [sanctuary]?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://npr.brightspotcdn.com/dims4/default/5f40bf4/2147483647/strip/true/crop/2148x1412+0+0/resize/1760x1156!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2Ffb%2F026734a64d0888dde6ad6bf9f1a3%2Fbarton-springs-1940s.png",
+      "caption": "Barton Springs in the 1940s (courtesy of NPR)",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In this interview, Griselda Rodriguez pulls these memories in, saving them from slipping through the cracks of pollution. From strolls at "
+        },
+        {
+          "text": "Barton Springs",
+          "color": "#0eb94a"
+        },
+        {
+          "text": ", to fishing at "
+        },
+        {
+          "text": "Mueller Park",
+          "color": "#0eaa44"
+        },
+        {
+          "text": ", Griselda takes our hand and walks us through the beauty of Austin nature. To preserve these [magnificent places], Griselda also recounts to us memories of her community, faith-based activism combating gentrification and environmental [pollution/harms]. "
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Exploration Driving",
+          "textSize": "heading-three",
+          "color": "#2dbe5f"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“We would do what my parents would call just “exploration driving,” where my parents would say, ‘Get in the car.’ And if we saw an area with a small creek or something, we didn't think twice about going in and enjoying the afternoon. And there were no fences, there was no preoccupation then about chemicals in the water. It was just a simple, free kind of way of growing up and enjoying nature, enjoying the beauty of the natural elements around you. And as a family, we have very dear memories of that.\""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "c2976f4c-7ccf-451a-9fd2-0d63d9e276e3",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "start": 1412,
+      "end": 1465,
+      "file": "f1559937-e010-4d14-9ad6-a262639acb71",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[Beauty at the Top] ",
+          "textSize": "heading-three",
+          "color": "#29bc5d"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "color": "#29bc5d",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "color": "#29bc5d",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
         }
       ]
     }
@@ -17,6 +251,6 @@
   "slug": "beauty-of-the-past",
   "created_at": "2025-10-08T21:19:45.915Z",
   "created_by": "UTEnvironmentalHistories",
-  "updated_at": "2026-01-13T21:41:32.885Z",
-  "updated_by": "UTEnvironmentalHistories"
+  "updated_at": "2026-01-25T21:22:33.444Z",
+  "updated_by": "senaoguzman"
 }
