@@ -4,11 +4,12 @@
   "created_by": "UTEnvironmentalHistories",
   "title": "Interview with Frances Acuna",
   "slug": "interview-with-frances-acuna",
-  "updated_at": "2026-01-13T21:40:51.695Z",
-  "updated_by": "UTEnvironmentalHistories",
+  "updated_at": "2026-02-03T21:20:43.103Z",
+  "updated_by": "Mcgraves",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "a1df72b1-31d2-4e1e-9451-af2d6f27ddc1"
-  }
+  },
+  "parent": "6bb95678-fe13-4a93-837d-28fb7e167320"
 }
