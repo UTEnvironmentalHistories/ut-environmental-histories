@@ -1,14 +1,45 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "c2976f4c-7ccf-451a-9fd2-0d63d9e276e3",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-10-08T20:51:57.929Z",
   "created_by": "UTEnvironmentalHistories",
   "title": "Interview with Griselda Rodriguez",
   "slug": "interview-with-griselda-rodriguez",
-  "updated_at": "2026-02-03T21:30:15.943Z",
-  "updated_by": "Mcgraves",
+  "updated_at": "2026-04-07T20:16:07.149Z",
+  "updated_by": "senaoguzman",
   "parent": "6bb95678-fe13-4a93-837d-28fb7e167320",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "c2976f4c-7ccf-451a-9fd2-0d63d9e276e3"
   }
