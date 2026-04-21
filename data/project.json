@@ -15,7 +15,7 @@
   "project": {
     "github_org": "UTEnvironmentalHistories",
     "is_private": false,
-    "title": "Echoing Evolution: Voices of Austin",
+    "title": "Ground Truth Initiative",
     "description": "This is a project that we're working on.",
     "language": "en",
     "slug": "ut-environmental-histories",
@@ -23,13 +23,7 @@
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [
-      {
-        "login_name": "itatearevalo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/265388118?v=4",
-        "admin": false
-      }
-    ],
+    "additional_users": [],
     "tags": {
       "tagGroups": [
         {
@@ -149,7 +143,7 @@
       ]
     },
     "created_at": "2025-10-08T20:49:47.727Z",
-    "updated_at": "2026-04-21T20:48:23.057Z",
+    "updated_at": "2026-04-21T20:58:39.993Z",
     "generate_pages_site": true
   },
   "annotations": {},
