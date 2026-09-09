@@ -2921,12 +2921,12 @@
           "tag": "Env't Health"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Water Quality/Env't Indicator"
-        },
-        {
           "tag": "Human Health",
           "category": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality-Env't Indicator"
         }
       ],
       "uuid": "0aa173c1-d1cf-44c4-8b16-bde2f06ae4f0"
