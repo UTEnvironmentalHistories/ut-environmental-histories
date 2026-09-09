@@ -1,5 +1,3740 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Today is Tuesday, January 20, 2026. My name is Megan Poole. I'm joined by Marina Martinez, and today we are interviewing Geneva Govea. We're at her place of work in the Mueller neighborhood. Thank you, Geneva, for agreeing to this interview. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "d1b92afa-228f-4c72-89d9-fbffdaa17736"
+    },
+    {
+      "start_time": 16,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You're welcome. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "2f688023-1057-4ac3-9483-340669c92b06"
+    },
+    {
+      "start_time": 18,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We want to get started just by hearing about your life growing up in East Austin. Tell us a bit about the neighborhoods with which you're most familiar, and how you've seen that neighborhood change over time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "eeb68531-a9d8-4b05-a2ad-0827aa1ee700"
+    },
+    {
+      "start_time": 30,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I grew up in the Govalle neighborhood area. We lived as more or less a family, you would say, because where we lived my aunt, one of my aunts lived next door to us, my other aunt lived two blocks down, my grandma lived three blocks down. So it was a... and I'm talking... when I say my aunt, my grandma, I'm talking about my Rangel side of the family, which was my mom's side of the family. So, we grew up [with] my mom's side of the family. So, they all grew up there in the Govalle area, which was Govalle Avenue and Tillery and Springdale. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "2b8730be-bbcc-4e3a-8565-5f81a1f0bfb6"
+    },
+    {
+      "start_time": 73,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do you think is the most important thing about that neighborhood? What makes Govalle “Govalle”?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "9b9afe98-3fbe-4aff-8757-8cf73ef93a26"
+    },
+    {
+      "start_time": 78,
+      "end_time": 121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I think what makes Govalle “Govalle” is that it was, like, a family affair. All the family knew each other, you know, and it just... there was nothing... it’s weird, because if you did something wrong, something like that, you knew exactly who that family was, you know? Everybody knew everybody. It was, I don't know how… you know, it’s just so hard, because to us, we saw it as a family affair that everybody would come together. “Oh, we can hang with them. We can hang there”—everybody was just a family, you know, took care of each other. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "ba31e1f7-c1d4-40c2-9004-cb24d561e94f"
+    },
+    {
+      "start_time": 120,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We went to... we used to go to the park, Govalle Park. I guess I was like the oldest, they would see me as a mom or something, because I would help a lot of the younger ones and show them how to swim. So, now that I see them, they're all growing and big, and they say, \"Oh, you were the oldest one! You were the one that used to feed us and stuff.\" [laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "066e4cf0-5951-4fa9-8839-f8ceb9229fa3"
+    },
+    {
+      "start_time": 142,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But it was... it was real nice. East Side was very lovable. And, you know, we all played together and had... we were in the church. Everybody went to church, either you went to St Julia's, [or] you went to Guadalupe and Cristo Rey. But it was a...it was a very loving family. Everybody cared for each other."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "341dee8c-6bd2-41b4-b5bb-7758dcb1f5a2"
+    },
+    {
+      "start_time": 173,
+      "end_time": 178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How have you seen that place change over the course of your lifetime? Would you say it's still that way today? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "417e8ca4-9d91-44a5-aa99-f9f410a9b3a6"
+    },
+    {
+      "start_time": 179,
+      "end_time": 196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No. First of all, because schools are starting to be closed... started to close down. So that means that you don't... You see a lot of the community people there now don't have kids, so the kids are no longer around. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Past v. Present"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "497faf17-b243-4a03-839b-4b96c9c62013"
+    },
+    {
+      "start_time": 196,
+      "end_time": 241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what I seen is, well I hate to say it, but it's, you know, beer, bars and stuff. And I told... I just told my friend the other time, I said, \"Man, you know, East Austin beginning to... beginning to look like an alcoholic community instead of a family community like we used to be.\" Because that's all you see, you know, just breweries, beer breweries and stuff around. And it's a shame that it's taking over schools too, because it ran... to me it seemed like it ran the family out of the community. Because you don't hardly see kids anymore. So that, you know, it's a big difference... from the way we grew up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Past v. Present"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "a6e468aa-4967-4d74-aa64-80d0384805f0"
+    },
+    {
+      "start_time": 241,
+      "end_time": 248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A lot of people, when you ask about the greatest challenges facing East Austin, a lot of people talk about gentrification."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "fbb04eae-f3f1-4f6d-b7df-e389aa45cfbf"
+    },
+    {
+      "start_time": 248,
+      "end_time": 249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gentrification."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "1dfebb66-1a08-4753-ab01-6758e2cc0f97"
+    },
+    {
+      "start_time": 249,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Would you say that would be the neighborhood you know, its greatest challenge? Or do you see other challenges facing it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "051bb507-d1f0-4778-8511-4d6311772405"
+    },
+    {
+      "start_time": 257,
+      "end_time": 305,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Like I said... to me, it was... it ran people out, because now that they bring up, you know, I see them all the gentrification. How they're building these condos, and these... all these houses, and you know. You don't even got space anymore for the kids to be running around or playing around. And my thing is, before... because, like I said, I come from a family of ten. My dad working, the only one working, you know? And we couldn't add on to the house or anything without a permit or you have to ask permission. Now you put in fourplexes or eightplexes... on one land that used to be just one house, you know? And to remember like, back then, we weren't able to expand or even to go up. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Past v. Present"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "51591a72-e3ea-4740-ab5c-5f6be93f3715"
+    },
+    {
+      "start_time": 305,
+      "end_time": 339,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean now, we pass by where we used to live, and it seems like there's no air, you know? Because there's just all these high… like I said condos or high lift, or they're coming out and building all these buildings and stuff. And we fought hard. I fought hard with a lot of my community members there, you know, to try to get rid of lot of the stuff that we cleaned out. And now to come and see, you know, condos and stuff being built, big old apartments... "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Past v. Present"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "b4e92fd5-c79c-473b-8620-36afaf1d92e0"
+    },
+    {
+      "start_time": 342,
+      "end_time": 358,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You don't see green no more. You know is, there's hardly... the grass that we have and all the trees, they're already all gone because they're making, like I said, eight plexes, four plexes. There's not houses anymore."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality/Env't Indicator"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "0497f8cb-7166-4f44-8142-cac7315d0506"
+    },
+    {
+      "start_time": 358,
+      "end_time": 370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you make sense of what's happening when you say \"you don't see green no more,\" what does that mean that people are valuing and what we aren't?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "3a50c37b-86d0-42c9-ba20-71ac5705475b"
+    },
+    {
+      "start_time": 370,
+      "end_time": 396,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the green was… as kids we used to go and play, you know, lay out in the grass, get wet on the grass, and climb the trees. So, a lot of times we had... swing from the tree, you know, tire swings. And then I got thrown out a couple of times out of those tire swings. [laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "2781a4bc-c6b5-464f-9482-d3e335d4bab5"
+    },
+    {
+      "start_time": 397,
+      "end_time": 422,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But it's just, like I said, I don't see any kids, hardly any kids out there anymore running around, so that's probably why they're making them... They don't have, they don't have playgrounds or land to run around. But we used to run around barefooted. We used to go to the park, running to the park, cross over Airport barefooted, and try to get on the grass instead of walking on the cement. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "ac7ddcd8-02d3-450d-89a1-4f50c4694bd8"
+    },
+    {
+      "start_time": 422,
+      "end_time": 469,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But it’s just, I don't know, you know? I don't know. I don't understand why the city let it go like that to where... it's… oh, how would you say that? The landscapers and stuff—they're putting out more rocks and stuff like that instead of gardening. So, I think that hurts a lot too, because people used to put, you know, plants with the gardening of their flowers or their whatever... chili. My dad always had chili, you know, grow his chili and cucumbers. There was good soil in East Austin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Change",
+          "category": "Evolution"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Env't Health"
+        }
+      ],
+      "uuid": "d1ef5e81-0f70-4a5c-8702-adc3c7259aa2"
+    },
+    {
+      "start_time": 469,
+      "end_time": 471,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So Boggy Creek ran through the park, didn't it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "fdd1d83a-3503-49c8-a2c7-773018177b53"
+    },
+    {
+      "start_time": 471,
+      "end_time": 472,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, ma'am."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "e7083af9-4a34-4cae-9222-f4e3c591c148"
+    },
+    {
+      "start_time": 472,
+      "end_time": 480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What role... What are your memories about Boggy Creek? Was that a spot that you all would frequent as kids?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "b37611bd-bfa0-4b91-80ed-219168dddbc9"
+    },
+    {
+      "start_time": 480,
+      "end_time": 504,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We used to run... because we went to Allen, it was Allen Junior High back then. We used to... there was that little creek that we had to go through, and we had to cross it to get over, because with the neighborhood, you know, there wasn't a bridge or anything. And then we used to have to go through that creek. And the thing was, when it rained, we couldn't go through it. We tried and we'd slip. We would be slipping because it's muddy. [laughs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Env't Health"
+        }
+      ],
+      "uuid": "83d17d37-bd88-4130-981a-43358fd9d666"
+    },
+    {
+      "start_time": 505,
+      "end_time": 533,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But there were times when it would rain a lot, we used to go swimming in there, you know? The whole neighborhood going... instead of going down to the swimming pool. Of course, it was to be closed, but that was our swimming, you know. We used to call our whole neighborhood a swimming pool- [laughs] -because some of our friends lived right behind it, you know, right out there by their backyard."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality/Env't Indicator"
+        }
+      ],
+      "uuid": "cf18d51d-1bb1-4f40-b443-3cbc4ce1279c"
+    },
+    {
+      "start_time": 534,
+      "end_time": 544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do you remember about the creek and compare it to what it is today. Could you go swimming there?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "d0d6e5b8-c849-411c-8bfb-adbcb96e065a"
+    },
+    {
+      "start_time": 544,
+      "end_time": 550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You could go swimming now, because, I mean, it's more… it's cleaner! [laughs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality/Env't Indicator"
+        }
+      ],
+      "uuid": "a5874fdd-64e3-403c-9aa1-9e1408295cdf"
+    },
+    {
+      "start_time": 550,
+      "end_time": 570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Back then you walk through stuff, you’d either cut yourself or something, but there was just something that, you know, we grew up [with]. We grew up that was part of life. You know, getting scratched with whatever debris was out there in the creek. You know, there's... and that's why they say \"Y'all would walk through the creek barefooted??\" Wouldn’t dare do it now. [laughs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality/Env't Indicator"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "9adb1db8-5c0e-4dd5-baca-65863bd367fb"
+    },
+    {
+      "start_time": 571,
+      "end_time": 576,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you remember fish? Any sorts of wildlife on the banks? Trees?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "ed103aa8-9f52-41e1-8acd-072eaa981918"
+    },
+    {
+      "start_time": 576,
+      "end_time": 591,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, we’d see… little tadpoles and stuff that we used to try to go collect with our... with a little cup of whatever, then try to see we could get them to grow. But they'd never… they would die! [laughs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality/Env't Indicator"
+        }
+      ],
+      "uuid": "7119e72d-6c17-4162-9ec0-21f92e9e05e9"
+    },
+    {
+      "start_time": 591,
+      "end_time": 618,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It’s just something that us as kids, you know, we think, \"Hey, why go buy it at the store? We can get it there from the creek.\" And, you know, it was an experience. There were times my brothers and them would get a fishing pole and see if they could catch a fish. And my dad would always tell them, \"Those are small fishes.\" You know, “Let ‘em swim out there.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality/Env't Indicator"
+        }
+      ],
+      "uuid": "0ccdd076-8e06-460a-97f7-a0e443b16e5c"
+    },
+    {
+      "start_time": 620,
+      "end_time": 631,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But yeah, the neighborhood around there was… it was incredible just growing up, everybody meeting up there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "5614ef6c-e69a-4af8-acdc-fb8878a07d28"
+    },
+    {
+      "start_time": 631,
+      "end_time": 660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Of course, Dan's Hamburger was there too. And there used to be a fruit stand. They used to have fruit and stuff, and right at the corner of Airport, right at the light. And we always used to... when you went to the park, you used to stop there and get... I used to go buy sandwiches and stuff like that—bread, a loaf of bread, and $1 worth of ham and stuff—and then feed the kids at the park. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "982c52e0-e79e-48d9-a8f9-cc582b58f159"
+    },
+    {
+      "start_time": 660,
+      "end_time": 704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But, yeah, it was… seemed like back then everything was so handy for us there, you know, and everything was... and now it’s just sort of hard to... for any of the kids to go around. To me, it seems like they missed out on life that we grew up with. Because down by the park there used to be trees full of like plums and... and there you would see like deers or raccoons and stuff running around. You know, that we had it there. You know, it seemed to others that we didn't have to go to the zoo and other [places], we had it there in the neighborhood, you know?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Past v. Present"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality/Env't Indicator"
+        }
+      ],
+      "uuid": "13ef6083-2f5c-497d-887e-7555d375d2fd"
+    },
+    {
+      "start_time": 705,
+      "end_time": 709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You said earlier too that the soil was so rich. Do you feel like that's different than today?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "94982b15-e5f4-4548-b9eb-1a5ab7cbc025"
+    },
+    {
+      "start_time": 709,
+      "end_time": 724,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Well, you know, because of all that landscaping, and they did away with the grass and stuff, you know, the greener stuff. So they... nothing... Now they put in cement or they don't have… they don't have grass and stuff."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Env't Health"
+        }
+      ],
+      "uuid": "8dd1d2ca-0280-4845-8459-ba75fd992feb"
+    },
+    {
+      "start_time": 725,
+      "end_time": 729,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So the creek you're talking about, this is the one that's now been concretized?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "ebfa7eec-f218-4363-b11a-c59954e0a65a"
+    },
+    {
+      "start_time": 729,
+      "end_time": 748,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, they expanded it. So, when they started working with it, they said that it's supposed to be for 10 years or whatever, it would not flood because it ran... so run down all the way down to Bluestein. Down that way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "1552eec8-4fdd-40c3-9e51-57a92e58ed4f"
+    },
+    {
+      "start_time": 748,
+      "end_time": 759,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Was flooding a big part of your childhood that you remember? You joked about the whole neighborhood being a swimming pool. But was that related to floods, or just the creek being so accessible?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "bff1906f-bb15-4873-ad67-9d92fa2d8cf5"
+    },
+    {
+      "start_time": 759,
+      "end_time": 773,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well because even down on Seventh Street, right there at the bridge on Seventh and Pleasant Valley, they used to go swimming. You'd be able to go swimming there because the water wouldn't run... run out to the... So, you know, there were times you could go swim in there. [laughs] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality/Env't Indicator"
+        }
+      ],
+      "uuid": "7231e4f9-4032-41ef-b789-13fd7e0a8ae1"
+    },
+    {
+      "start_time": 774,
+      "end_time": 813,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We’d go… the big park there at Parque Zaragoza, you know? So, like I said, the whole neighborhood was... a community that was very... I guess we would say \"survivors,\" but was very together and very... I don't know how to describe it, you know, just families coming together and helping each other out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "aa05c43a-5018-4b6d-92cf-f7b329affffe"
+    },
+    {
+      "start_time": 814,
+      "end_time": 820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Surviving because of flooding and environmental conditions or surviving because of other concerns?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "c7861a7a-7927-4adb-9768-63cb5e92ad18"
+    },
+    {
+      "start_time": 820,
+      "end_time": 833,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Surviving because we helped each other out, you know. And to us, it wasn't... We didn't see it as flooding as a dangerous thing, we saw it as fun thing for us, you know. [laughs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality/Env't Indicator"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "bb430f6c-13d3-453e-8eea-8899023fa215"
+    },
+    {
+      "start_time": 833,
+      "end_time": 861,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, I guess, you know, we didn't think, “Oh, we’re gonna get flooded and we’re gonna miss out.” Back then, I don't know why we weren't scared of that, but it was weird. Now that it starts raining and stuff, it starts scaring people out because I guess now we get more rain. It seemed like we get more rain now than what we did before, you know, because it wasn't that much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Past v. Present"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality/Env't Indicator"
+        }
+      ],
+      "uuid": "87087bd2-6910-431b-b8a6-cd92a222773f"
+    },
+    {
+      "start_time": 861,
+      "end_time": 893,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I guess because the creek wasn't cleaned up enough before for a flood, but it was not as much rain or flooding like we see now, you know. Because I remember times when my grandma lived in Govalle and fiesta was down there, and that part of the creek back there used to flood up. So, I remember my aunt used to live there, and they had to evacuate in no time. But it... we didn't see it as a very bad thing, you know?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality/Env't Indicator"
+        }
+      ],
+      "uuid": "2a1ee9b7-57b3-42b0-b89c-191d40d9a780"
+    },
+    {
+      "start_time": 894,
+      "end_time": 902,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you remember your parents feeling differently? Do you think they would get scared when flooding would start to happen?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "c1c61f8b-941d-4d62-95d7-05e49ba1d921"
+    },
+    {
+      "start_time": 903,
+      "end_time": 912,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So... it gets weird, because I remember, my dad always used to have, like, tubes or whatever and stuff he goes, \"If you're in a flood, just get in the tube! You'll float down the river!\" [laughs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality/Env't Indicator"
+        }
+      ],
+      "uuid": "91d983c7-8e3b-4b03-88c3-518fef064067"
+    },
+    {
+      "start_time": 912,
+      "end_time": 926,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, \"It'll either float you, take you down to Grandma's house or to your Aunt's house,\" you know, \"just get in the tubes.\" You know, we had tubes... just... like I said, to us, it wasn’t a scary thing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality/Env't Indicator"
+        }
+      ],
+      "uuid": "4c6401ae-2192-4f65-a4fa-e32cfa861196"
+    },
+    {
+      "start_time": 926,
+      "end_time": 928,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You remember your house flooding?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "03fe2c22-1974-46e5-802c-572c972d9af5"
+    },
+    {
+      "start_time": 928,
+      "end_time": 951,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, not... Our house never got flooded. We weren't that close. But I know my aunt's house did. She had to get evacuated. Then the creek... we used to go to the creek, and you see it as, you know, raising up, but it never came into the houses, you know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality/Env't Indicator"
+        }
+      ],
+      "uuid": "f6cee70a-e6c9-4880-a980-84a3c1c284d2"
+    },
+    {
+      "start_time": 953,
+      "end_time": 973,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, you've talked a lot about the community coming together, relying on each other for survival. You also talk about East Austin being a very green space. So how would you define how your relationship to the environment, to water, to the land, how has that shaped who you've become as a person?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "9d85df0c-5e30-4af4-b180-16818927ebd3"
+    },
+    {
+      "start_time": 973,
+      "end_time": 1005,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I guess because... as I was growing up and then being a parent and stuff, once I started realizing, you know, some of the kids were afraid of what they could do... how… what would affect them. I started wanting to do more in the community, to where I could make sure that our kids were safe, you know, families and stuff."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "0ccac4ed-8c56-4a11-869f-00d81036faaa"
+    },
+    {
+      "start_time": 1005,
+      "end_time": 1038,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So my thing was that the only way that I could do anything to go find out where I had to speak or who to talk to, you know? And once I started getting involved with the school, then I started learning. I started getting to know other organizations, people that were involved and that sort of helped me out by going and just... first, I didn't know what to do. I would just go ask questions. \"So how can we do this?\" or \"How can we do that?\" You know?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "40c19397-7918-494f-bb0d-5e4e90ecc15d"
+    },
+    {
+      "start_time": 1038,
+      "end_time": 1042,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And how were you involved in the school?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "b981cf90-bec3-4356-beed-40db991aa7da"
+    },
+    {
+      "start_time": 1043,
+      "end_time": 1062,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The PTA [Parent Teacher Association]. I got involved with the PTA at the school, and then I started asking, \"Well, what do PTA do? What can we do as a PTA member?\" And that's when they told us, you know, \"Once you become a board member, you start… what is it that you want to change in the community and the schools?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "d1447263-199b-44d5-81af-b1a6099c9abf"
+    },
+    {
+      "start_time": 1062,
+      "end_time": 1087,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, first we started with the schools, and then we started expanding out to the community, bringing the community people about getting them involved and started asking from there, you know, \"What is it that we need to do to start fixing our community, or... What do we do for them to start getting involved?\" Because a lot of people had a lot of ideas and stuff like that but they were afraid to get involved, or they didn't know who to go to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "12dd044f-3e7a-4d01-ae60-23345a83765d"
+    },
+    {
+      "start_time": 1087,
+      "end_time": 1112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, once I started, when I started getting involved, I started getting to know different people or different organizations. And one of the big... I give thanks to I got involved with PODER, and I started educating when I started getting educated, you know, the zoning and all kind of different things that I learned from them, you know. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "1fdbbe43-cf4e-42fc-8e6e-715239be29e4"
+    },
+    {
+      "start_time": 1113,
+      "end_time": 1148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then I started speaking up, you know, instead of holding everything inside and stuff, you know. So, \"I wish we'd do that, do that.\" But then I started speaking up, and started speaking to the school board, the city council, and different, you know, joining different boards. So, it took a lot of time and a lot of work, but somehow I did it, you know, with the help of a lot of community members."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "1c1cc011-efa8-4bc0-bbf0-0445efdef3c0"
+    },
+    {
+      "start_time": 1148,
+      "end_time": 1157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What have been the biggest issues that you've spent your life and your energy and your time fighting or raising your voice about?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "35126f94-9be3-4d08-9dde-495f3906db0d"
+    },
+    {
+      "start_time": 1159,
+      "end_time": 1198,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For the schools. Before, like I said, before I got involved with the school, I went to a lot of school board meetings, and... started fighting for what the kids needed at our schools. And a lot of times when they wanted to close the schools, I mean, if you're like, \"Well, how you gonna close the schools when you need the schools for the kids going [somewhere].\" \"So, if you want to educate the kids, how are you gonna be closing schools?\" And they're still doing it. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "d446aeaf-8863-4ce8-8845-923ee36bd68e"
+    },
+    {
+      "start_time": 1198,
+      "end_time": 1219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, you know, one of the things that they wanted to do, they wanted to move our kids... bus them. And I'm saying, \"How you gonna bus them if they barely go to school in their neighborhood, the school that they have in the neighborhood? What makes you think they're gonna get up to go clear across town or go to another place?\" So, once I started getting involved in the school, I started seeing the needs of the kids. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "In Group v. Out Group"
+        }
+      ],
+      "uuid": "f6e7b081-971f-423d-996a-dde3b7f805e4"
+    },
+    {
+      "start_time": 1220,
+      "end_time": 1232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it's, you know, sad, but if you don't have a handicapped child, you don't know the need of that handicapped kid. Or the parents, you know, you don't know what they're going through."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "26061382-8604-4bde-bcc5-42fa3e6e8d18"
+    },
+    {
+      "start_time": 1232,
+      "end_time": 1242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that's what started getting me involved, trying to want to… like my mom said, \"You want to fight for everybody, but you can't fight for everybody.\" [laughs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "8b59ef40-979d-448e-a487-ac6dfc549dd8"
+    },
+    {
+      "start_time": 1243,
+      "end_time": 1264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, \"You can't fight for everybody's needs.\" I said, \"Well, I can try and see what I can do.\" And I was satisfied with what I could do for the kids and the parents, the community. It took a lot of my time, but to me, I was saying, like, \"We're family, you know? All these kids here are going to be my family, and I got to fight for them.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "6bdbc6c4-119f-4ed0-b6d4-55ec9117a87f"
+    },
+    {
+      "start_time": 1265,
+      "end_time": 1275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And one of the things I used to do is walk some of the kids, the neighborhood kids, I used to walk them home, and that's what made me want to fight to... for the bridge. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "4aa324c9-d400-4bb4-9083-7e9025d9f2ac"
+    },
+    {
+      "start_time": 1275,
+      "end_time": 1318,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because at one time it was raining, of course, we couldn't go... I couldn't walk the kids through the creek, so I had to walk around, walk them around, through Shady Lane. And from Shady Lane, you had to walk up to Airport. And for some reason, we stopped at the creek, at the bridge, because the kids wanted to see... they saw a turtle on the creek, and we stopped. And if we wouldn’t have stopped, we would have gotten to Airport, and there was a car wreck right there on the corner... it would have probably hit us because we walk right to the edge of the street. So I said, \"Well, I guess,\" I told the kids. I said, \"I guess God was taking care of us,\" because we stopped and nobody got hurt."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality/Env't Indicator"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "212dec20-0cbb-4c50-8fa5-a28fb71ce1f7"
+    },
+    {
+      "start_time": 1318,
+      "end_time": 1329,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But after that it sort of scared me, because I was walking home with about eight little kids in the neighborhood, my two and six other that lived across the street, neighbors."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "e414ff9a-59e9-4883-a3ab-404200677433"
+    },
+    {
+      "start_time": 1330,
+      "end_time": 1371,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So that's what I was saying, you know, it's sort of dangerous. And I started... I talked first, I talked to the principal, and she said, \"Well, you need to...\" Then, we had a parent support specialist there, Marie Velazquez, and she said, \"You need to go talk to the school board,\" you know. And I did. I went and asked, \"What would it take to build a bridge behind there, behind the school?\" And they said that… First, they told me that the land there was not the school district. It belonged to the city. So, then I went to the city, and the city told me, \"Well, that's the school district.\" So, they had me going back and forth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "a8b98561-fbb5-4c0f-ba15-7a7e05dd3577"
+    },
+    {
+      "start_time": 1371,
+      "end_time": 1404,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, then I was involved with LULAC [League of United Latin American Citizens], and we had a national convention in Washington. So, I went to Washington. I went talked to JJ Pickle, and he directed me, he was like, “If it’s for concern of the safety of the kids, then you go back home. And you go ask the city… you order the city management that if it's for safety of the kids, there's federal money. So, if you want to have a bridge built, then you have to get them... federal money to build a bridge.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "67961060-21b6-4cd9-b1fd-748a576c8064"
+    },
+    {
+      "start_time": 1404,
+      "end_time": 1414,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that's what I did. And then they told me, \"Well, you have to get a petition, because we don't know if the neighborhood people want it.\" And so, it took me about a year or so to get a petition. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "c783f896-7f21-48f9-bc01-ad1756803011"
+    },
+    {
+      "start_time": 1414,
+      "end_time": 1427,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then... my thing, why I jumped at it, was when they started working on Boggy Creek that they were going to expand it. And I said, \"Well, this is the right time to jump at it.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "58956762-de79-4ece-822f-b7afcdbd73e0"
+    },
+    {
+      "start_time": 1428,
+      "end_time": 1449,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I said, \"Well, it's not going to be out of y’all’s way, because while y'all expanding, y'all can measure for a bridge.\" You know? \"So the kids could cross over.\" And that's what happened…. they went ahead and included in the bridge. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "5d5ae968-f19c-4c3d-a20d-fea1714031a4"
+    },
+    {
+      "start_time": 1450,
+      "end_time": 1482,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But then at that time, it came out that... it ended up with the city... it was Austin AISD land. And when they finally dedicated that bridge… they dedicated Geneva Govea Herrera Bridge, they had all these people there with suits and stuff, and I'm up here, like, \"Where were all these people when I was trying to find out who was in charge?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "485ccc90-110a-4144-84ee-a7fd3f80dd84"
+    },
+    {
+      "start_time": 1482,
+      "end_time": 1508,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But it was a big ceremony that my principal there made, involved the students, the neighborhood people, and everything. So, it was a big dedication. And it was, to me, it was a big accomplishment, not only because it was the Geneva Govea Bridge, but it was because now everybody will be able to walk over, no matter how much it rains, it's not going to flood."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "76e1ba95-2dc3-49f1-8e2e-dff5450ecda1"
+    },
+    {
+      "start_time": 1508,
+      "end_time": 1511,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And where's the bridge exactly?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview commentary"
+        }
+      ],
+      "uuid": "55ade3d5-973f-44d9-9221-111be9748c97"
+    },
+    {
+      "start_time": 1511,
+      "end_time": 1544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's right behind, well, what used to be Allen, but as I said, Allen, they demolished it. It's no longer there. It’s the school... the street... that’s called Mansell, and it crossed over from our neighborhood. That was our little neighborhood back there, which was Gullett, Calle Limon, back then used to be Don Ann, now it’s Calle Limon, and then it was Mansell, then it was Chote, then we got to Springdale. So that little neighborhood up there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Past v. Present"
+        },
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "166849eb-1e58-4857-bf9d-a75156593cb2"
+    },
+    {
+      "start_time": 1545,
+      "end_time": 1580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Which that neighborhood also fought the paper company [BFI Recycling] to which we used to have the paper right there. We fought the tank farms, which, that's where Johnny Limon came in and stuff, Susana Almanza, and now from PODER. They had a big part to do to get rid of this. Though all that environment there was really... a health issue for the community. So, the community came together on that to get rid of that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Env't Health"
+        }
+      ],
+      "uuid": "69e64f25-337f-417b-8ca8-bcf3d6d9e75c"
+    },
+    {
+      "start_time": 1580,
+      "end_time": 1614,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, then later on, to find out that they come and build, after they... we got rid of the Tank Farms, then they came and built hotels, I mean apartments, there. And I’m up here, like that... was contaminated, and how are they going to build apartments there? But they did. So along with the other apartments and stuff across from... going to Springdale and Airport and the other side of the bridge, you know?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Env't Health"
+        }
+      ],
+      "uuid": "4992b525-a1ad-442d-9a57-a44150c064d3"
+    },
+    {
+      "start_time": 1614,
+      "end_time": 1633,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But Dad told us at one time that... that land there was contaminated. But, you know, they said, only the people that live there know what was there and what we did to fight, to get rid of that stuff. Clear up that community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Env't Health"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "26636f73-6be1-4f38-b10c-6d083ca039da"
+    },
+    {
+      "start_time": 1635,
+      "end_time": 1637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, not many people have a bridge named after them. [laughs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "0ab86a01-3176-4453-b091-13eea36ffaa4"
+    },
+    {
+      "start_time": 1637,
+      "end_time": 1645,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, what do you think? What does that mean to you? And that was back in 1990 when it was dedicated, correct?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "4d0592c7-a8b7-4966-9dbb-4f4972ce5496"
+    },
+    {
+      "start_time": 1645,
+      "end_time": 1657,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I can remember exactly the date, because, like I said, it was my mom's birthday, and I was pregnant with my youngest daughter, so November the 30th, 1990, because my daughter was born in May 1991."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "93ddac50-2fb6-4e22-aea6-e99c537faa51"
+    },
+    {
+      "start_time": 1657,
+      "end_time": 1693,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So... then again, that bridge, they were supposed to put a plaque out there. And when they dedicated that bridge, when they had that big ceremony, they said, the city said... the street and bridge, they were supposed to have that plaque made. And they said that they were... that it wasn't finished when we had that ceremony. Well, here I am. My daughter is, what?, 33 years old, and 33 years later, and the plaque is still not there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "4d05a157-52e1-405e-b90b-45a8dff6fc02"
+    },
+    {
+      "start_time": 1693,
+      "end_time": 1695,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Are you serious?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "582f6550-699c-4cba-a17c-c17c1eae2d7c"
+    },
+    {
+      "start_time": 1695,
+      "end_time": 1728,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yep, I'm serious. And I remember when I went to City Council, Thomas, Danny Thomas was in there. Barnstone, Robert Barnstone was... and I remember back then, the one that went and supported was Marcos de Leon, because he was commissioner back before. And I went and saw them. I had gone every year, well, not every year. I had, matter of fact, when Pio Renteria was there, and I said, \"I need to go to your office to get that plaque and see if you can get that plaque there.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "9bfc848c-c354-4ab5-aca9-7517703f226b"
+    },
+    {
+      "start_time": 1728,
+      "end_time": 1756,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so now... When they did the dedication over there in Govalle with what they naming the streets, Johnny Limon, and Susana Almanza, Paul Hernandez, and Jorge Guerra. Matter of fact, I used to sit with all of them, I sat on different boards with all of them, you know. Now, those people… only just Susana is still here, but the others are gone, you know? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "fa79d518-b13f-4db6-81ad-1056fddcbae8"
+    },
+    {
+      "start_time": 1756,
+      "end_time": 1787,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I remember going to meetings where Jorge Guerra used to always say, \"We need sidewalk. We need sidewalks.\" And they're gonna do sidewalks down the East Side. And so, like I said, I told Susana... Marcos de Leon was there. And then I said, \"They still didn't put that plaque.\" He goes, \"Well, we need to go back to the city and go fight to make them make sure that they put that plaque there.\" You know, \"That bridge was dedicated Geneva Govea bridge, and it has to have a plaque out there.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Credibility",
+          "category": "Community"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "94f6f436-f862-4bc9-b35c-b83bfe277bdd"
+    },
+    {
+      "start_time": 1787,
+      "end_time": 1797,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What's the significance of the plaque? What legacy have you left with this bridge? What does it mean to you to know that you've accomplished this?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "2e7a7bf6-ce15-4c83-bf09-314728d14041"
+    },
+    {
+      "start_time": 1797,
+      "end_time": 1836,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Accomplished it because, to me… All those kids that were there, they were kindergarten, you know, elementary, that were able to see that bridge built. And then now they're old, you know, and have your own kids, like my daughter. Her kids didn't even know about it. And then, my sister...  every time that she takes her kids down there, her grandkids, or anything goes, \"This is your aunt's bridge.\" You know, \"She fought to have this bridge,\" and they don't know the story. When she started telling them the story, they said, \"We didn't know that!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "a9be8178-71f0-49c3-a6bd-d82fdac8a039"
+    },
+    {
+      "start_time": 1836,
+      "end_time": 1877,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I said, I went through a lot to try to get that bridge built. But like I said, I didn't do it by myself. I did it with the back[ing]... with the support of the community. And that's what we needed, and that's… we fought for that bridge to be built. And as you said, when they... Especially to get from that little... our community there... to cross over from that bridge instead of having to go around through Airport or through Springdale, you know that was right there at our backyard to cross. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "2bf2957c-a74f-40af-a0f7-15a437380b37"
+    },
+    {
+      "start_time": 1878,
+      "end_time": 1882,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, you've literally made a way for others!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "31ffd871-b10b-44c8-8aa2-e12784f511bf"
+    },
+    {
+      "start_time": 1882,
+      "end_time": 1883,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To go through, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "0bbab4c4-bfd3-4c83-b098-9e632aa308b4"
+    },
+    {
+      "start_time": 1883,
+      "end_time": 1895,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With a literal bridge! But then also think, you know, for others to follow your example and fight for what their communities need. Where do you think you learned that? Who inspired you to make a way?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "cd875718-b804-4079-a3a3-f20dec94cb3d"
+    },
+    {
+      "start_time": 1895,
+      "end_time": 1915,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, my parents really. My dad didn't know how to read and write. My dad dropped out of second grade because he said his dad passed away, so he had to work the ranch. He was originally from Lockhart, where he had to work the ranch, had to help his mom. So, he didn't know how to read and write."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Collective",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "777765db-fd26-4b31-847f-8466d22044ec"
+    },
+    {
+      "start_time": 1915,
+      "end_time": 1940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But yet, he worked through the city, he retired from the city. And they used to tell him, they said, \"Mr. Govea,\" you know, whatever he needed to do, they used to mark, make a mark on him [for his signature] and stuff. But we showed him how to write, how to just write his name, so he'd be able to sign it. And my mom used to say, \"Look, he writes like a little kindergartener.\" I said, \"It's okay, as long he writes his first last name so he can sign that check! That's all that matters, you know!\"  [laughs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Collective",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "7a9a3644-8b99-416b-98ca-309fc2342af2"
+    },
+    {
+      "start_time": 1942,
+      "end_time": 1967,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I said my dad had knowledge up here. I say, \"You might not know how to read and write,\" but he had knowledge. He was a man of all trades, you know. He... electricity, he fixed our house with whatever. We didn't have to pay no plumber, electrician, or roofer, or anything... mechanic, my dad did it all. And I was daddy's girl, so I was always there with him. Under the car, I was there under the car"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "689e55e1-f813-461a-ad4c-a8ab0537b8bd"
+    },
+    {
+      "start_time": 1968,
+      "end_time": 1981,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And my friends laugh because I said, even with my husband's, I got married to four times, and they get mad at me. I knew how to change the lock of the doors. “You're not coming in here! I'll go change that lock. My dad showed me how to change those locks.\" [laughs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "7973d25e-8c46-49e2-8bca-f96ac6f7eeb0"
+    },
+    {
+      "start_time": 1982,
+      "end_time": 2004,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, I go... tell my grandkids. I used to go do yards with my dad. And I said, \"We didn't have no weed eaters, so those scissors, you get down on your hands and knees and use those scissors. Cut that... trim around the grass and stuff.\" I learned a lot. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "21626f15-58da-436b-a9b6-930be310f1d5"
+    },
+    {
+      "start_time": 2004,
+      "end_time": 2021,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And like I said, I had six brothers. My neighbor across the street used to say, \"Where are your brothers? Why are you cutting grass?\" Because my brothers were playing, we all played sports, my dad put us all to play sports. My brothers were playing ball and... but I was daddy's girl, which I always wanted to help out my dad, you know? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "5c5eee47-9d8d-43c7-b383-141ed438fab2"
+    },
+    {
+      "start_time": 2022,
+      "end_time": 2042,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And because of that, I told them that's why I felt that I needed to get educated and to do it for them, you know. The funny thing, you know, they always had ideas. \"They should do this, they should do that,\" and stuff. One day I’m gonna find out where I had to go talk, go talk and go see what we can do about it, you know?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "3f8bfc1b-9e84-4d50-94e0-6239a1fa4952"
+    },
+    {
+      "start_time": 2043,
+      "end_time": 2076,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then I would, of course, get involved with our community leaders up there, find out who were our leaders so we can go... But I fought for... I was one of the... for being a PTA, I was able to go to the Valley to go see when that IDEA school, how the IDEA school was being run over there, and before they brought it over to Austin. So, I was involved with that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "e5b60d2c-2b7a-4c3e-b887-42cce5a180ee"
+    },
+    {
+      "start_time": 2076,
+      "end_time": 2128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But you know, to me, education was a big thing that... our community, kids needed to be able to get exposed to. Because you say, \"Well, we don't have to be in the West Side to go get educated. We're just as good as over here.\" You know, \"We can learn wherever.\" A lot of times when they would tell me \"No, but the school's over here... they're low enrollment,\" or because or, \"They're failing,\" or \"They're being closed down because of low performance,\" and stuff. And I used to tell them, I said, \"Well, then, what do y'all have on the West from the East side... I mean, the South... the West or North side, side that the kids are doing better there? Then if those teachers are good, then bring some of those teachers over here so if they're good teachers, they should be able to teach anybody.\" So you know this way... "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "In Group v. Out Group"
+        }
+      ],
+      "uuid": "80333224-e518-4b54-b69b-8485f8510975"
+    },
+    {
+      "start_time": 2128,
+      "end_time": 2151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then that's when they started finding out... the school district started seeing that the schools in the East Side were not upgraded like the other schools. You know, it's a shame. It's a shame because I worked for the school district and stuff, and it's a shame to say that not all schools are the same. It's not equal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "In Group v. Out Group"
+        }
+      ],
+      "uuid": "bad3c8d1-b143-41b7-8410-781ad5095184"
+    },
+    {
+      "start_time": 2152,
+      "end_time": 2183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that's where a lot of the schools that are getting closed and getting hurt, you know, because they're not equal to where... But then I started telling, \"Okay, you're sending these students over to this side, but then if you have computers and stuff there, then their material, their supplies should be going with the students.\" And toward the end, I found out that’s when they started doing the ones that were over-enrolled. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "In Group v. Out Group"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "38b965f3-1e0b-4211-9e2b-1a46fa5f96b9"
+    },
+    {
+      "start_time": 2185,
+      "end_time": 2201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then I started to going to the School Board, and started telling them, I said, \"Well, then y'all need to get up and go see reality.\" Because they were just going, \"What? How do y'all know that that's what it is? How do y'all know?\" They said, \"By database.\" ‘Cuz that's paperwork and stuff: “You need to go see reality.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "In Group v. Out Group"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "ec74be42-d524-4231-8e2e-fa638cb96bb2"
+    },
+    {
+      "start_time": 2202,
+      "end_time": 2228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because they say, one time I was at Sanchez [Elementary], and they said, \"Well, there was under-enrollment.\" I said, \"How do you figure it's under-enrollment when they got five portables out there?\" So, I mean, the students are not... and teachers, even the teachers, classroom teachers, were being split up. So, how are you seeing that it's under enrollment. If they were under enrollment then the school wouldn’t have five portables to fit all the students."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "In Group v. Out Group"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "cd70af9a-4be7-4a57-a257-0e37b9679525"
+    },
+    {
+      "start_time": 2230,
+      "end_time": 2237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But how do you make sense of that inequity? Like you said that not all the schools were equal? Why in Austin?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "d9da6bba-fe3f-464e-b4f3-22561a15c49d"
+    },
+    {
+      "start_time": 2238,
+      "end_time": 2276,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because... they put... when I started being getting involved, and started getting into volunteering, to sitting into more committees, started seeing, I started asking, \"Why did those students come this way? And why do you make a line to…\" They say, \"Well, that's where we put the line for districting.\" Because I said, \"Well, these students should be allowed to go to whatever school they want.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "40c849e3-4da1-4962-9205-9e6aceab0241"
+    },
+    {
+      "start_time": 2276,
+      "end_time": 2301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was the last PTA president for Johnson High School and the first PTA president for Eastside Memorial. I fought for that Eastside, and I fought for that school to stay open. To where, in the long run, I found out all I had to do just change the pen and then they didn't have to close the school, you know. So, we changed it so... "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "36a4a6c3-2dcf-4c7a-a1ff-31659c1f389d"
+    },
+    {
+      "start_time": 2302,
+      "end_time": 2331,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And this is a little story that I want to give out because a lot of people don't know about this. When I fought for Eastside Memorial, my original fight was to name it Eastside High School. But when we went to the school board, the guys, they're military guys were there, they wanted to name it Memorial High School. And what I asked them was, \"Where were y'all when I've been having these PTA meetings? Y'all never came to my PTA meetings, and now you want to come and fight to change the name?\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "d2345e68-ec46-4695-b216-8e73afe3c3b4"
+    },
+    {
+      "start_time": 2333,
+      "end_time": 2360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So the school board had to call a recess, and they said, \"You know, y'all are on TV, everybody's seeing this, and they gonna see y'all fighting against each other... y'all from the same East Side,\" you know. They suggested that we would talk together to come up with agreement, because the school board were going to vote for what I wanted. Because really, I was the one that had been going to all these meetings and fighting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "109dec0d-f4c7-4943-8514-6df952c47c45"
+    },
+    {
+      "start_time": 2361,
+      "end_time": 2387,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so I told the committee, the guy that was in charge that wanted it Memorial High School. I said, \"I'll name it on the Eastside Memorial High School under one condition. That did y'all come and mentor our students.\" And they agreed on that. So okay, so we named it Eastside, Eastside Memorial High School. That's how that name came about. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "71b611c2-d6c1-44dc-b531-2530eecb992b"
+    },
+    {
+      "start_time": 2387,
+      "end_time": 2423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because, really, I was going to name it Eastside High School. So, they came... and that's why every memorial… they have a memorial there for Johnston and we at the PTA had that memorial, out at Johnston. We fought hard for that school, for everything that they have there. And then, like I said, I sat with the students, they wanted to change the color, the mascot and stuff, I was part of all that, you know?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "a9209244-82f1-4347-a082-1bb0b54f91ad"
+    },
+    {
+      "start_time": 2425,
+      "end_time": 2442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But it was just a hard thing to see for me, after fighting and going spending many hours. I mean, we’d spent up... We would stay at the school board, city council, till 12 o'clock and stuff. I started taking our kids to speak. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "923f0267-01a2-4208-b4c4-e4cdddb75696"
+    },
+    {
+      "start_time": 2447,
+      "end_time": 2485,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I saw a lot of… you don't want to sound mad, but… how they did us wrong. Because they would put us to the end, and until we started getting these kids and having the parents up there, you know, fighting, and having signs and stuff. It’s midnight and say, \"The kids got to go to school. You know, you're putting us to the end? And then you wonder why kids sometimes...\" you know. \"They're fighting. They want to know what's going to happen to their school too. You know, they're concerned.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "In Group v. Out Group"
+        }
+      ],
+      "uuid": "a132c910-8770-4dd4-81b2-64942df98cd2"
+    },
+    {
+      "start_time": 2485,
+      "end_time": 2521,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But it's a lot of... to me, it's a lot of fight. And then nowadays… I used to tell them back then, I said, \"Have y'all made y’all’s decision, and y'all just wasting our time just to say that y'all had a community meeting?!\" Because I learned a lot once I got involved, how they were doing things. And so, I started speaking out, and started saying, \"Don't waste my time if you already make your decision.\" I said, \"Because my understanding, y'all making decisions, and y'all not coming out to the community to see reality.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "In Group v. Out Group"
+        }
+      ],
+      "uuid": "6bc0f0a0-4ca7-411c-834c-04bcb9adae27"
+    },
+    {
+      "start_time": 2523,
+      "end_time": 2555,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, it is a shame, because a lot of these schools taught kids environmental things. They had goats, they had gardening and stuff that they did. And to see these schools being demolished, people saying all that stuff that those kids did. Kids planted those trees out there that's in the schools. I remember my grandson, my grandson said, \"Grandma, we planted that tree.\" And every time he passed, now he's 26 years old, he passed by there, \"We planted that tree right over there.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "d1269961-83b8-4198-8742-c785ded84abc"
+    },
+    {
+      "start_time": 2555,
+      "end_time": 2585,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now Allen got demolished, and all that stuff, you figured the kids in the neighborhood pass by there [and say] “We worked so hard.” And like I see, I worked hard to get the fence around on that playground for the handicapped kids, you know, especially like kids playing, and for them to come demolish all that stuff there at Allen. We fought hard. Our principal there that fought hard and taught us. We named that school after her, and they demolished it. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "bb54b994-d932-4460-a580-929c2593f83b"
+    },
+    {
+      "start_time": 2586,
+      "end_time": 2632,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm up here like, \"For what? Where are these kids supposed to go to school now?\" The schools taught a lot of our kids environmental stuff, because they were working around the school. And it was their community. There was gardening some of those kids knew that there was chili or there were cucumbers, some liked cucumbers, so they were growing out there, corn on the cob and stuff. During the summer, or whatever, they used to go over to the garden to get lettuce, tomatoes. But just like I said, to go back to the East Side, it's not East Side no more."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "8f89fdda-07dd-4539-9234-b0c5d5b151b5"
+    },
+    {
+      "start_time": 2632,
+      "end_time": 2635,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What's your ideal future for the East Side of Austin?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "adc81a5e-f626-4a3c-ba29-88075366b388"
+    },
+    {
+      "start_time": 2638,
+      "end_time": 2704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, my thing was like I said… I celebrated, last year, 50 years, of our reunion. Class of Johnston class reunion 1974. Graduated '74. And there was 120 of us, our '74 reunion that we had this past [20]’24, and this past October, we just had 65th reunion for the Johnston [School] would have been open 65 [years], so it was like 500 Johnston Rams out there that had gone from the '60s to 2008 when Johnston closed at the last. And to see all those people out there that still... have a thing to the Rams, which are the East Side. Some of them came from out of town, out of state. And I said, \"Good people came out from there.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "6ad220d5-7260-40c5-9062-ff1219ed3498"
+    },
+    {
+      "start_time": 2704,
+      "end_time": 2705,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pride."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "f0d41be6-f2e9-497d-a050-e82308972a78"
+    },
+    {
+      "start_time": 2706,
+      "end_time": 2726,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, good people. We have some that are actors. Some that are singers, police officers, firemen, security, front line, nurses, businessmen. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "4ec40a38-e134-4052-b78e-b03fc61e7916"
+    },
+    {
+      "start_time": 2729,
+      "end_time": 2763,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I said it is a shame that now that that school is closed and that we don't have anything like we used to. So, we could have gone back and inspired some of these kids that are... the parents are ashamed to say that they're coming from East Side. It's a lot. And I think that even though... that the school is no longer there, but the memory still stays with us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "3b4628eb-af6c-473e-a892-6cf3a89d9b5d"
+    },
+    {
+      "start_time": 2764,
+      "end_time": 2802,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's so much that we could all have done to keep our community family going. But like I said, there's no longer there. I say the city is slowly pushing them out. When you start closing schools and you start raising rents and stuff for people, you wonder why they're no longer students around here, or kids around here, family moving out to Del Valle, moving out to Buda and those certain [areas], it’s because the city's moving them out. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "0396a734-1ab8-44af-ac93-de258d869bf2"
+    },
+    {
+      "start_time": 2802,
+      "end_time": 2804,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You don't live here anymore."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "56f14d88-0df5-4dca-8f1a-eb0ad62806a4"
+    },
+    {
+      "start_time": 2804,
+      "end_time": 2805,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, I live in Lockhart."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "3264f361-8836-4219-85a3-dd2c64d68fe3"
+    },
+    {
+      "start_time": 2805,
+      "end_time": 2807,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was behind that decision?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "6421f57e-9c0c-4aed-9bbf-be608bc6a0b9"
+    },
+    {
+      "start_time": 2808,
+      "end_time": 2819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, that was... my daughter bought 25 acres over there, and she said, \"It's cheaper to live in Lockhart then in Austin.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "0a6c5a95-3e31-42f2-abd0-01193d291b07"
+    },
+    {
+      "start_time": 2819,
+      "end_time": 2832,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And once I moved over—it's been just a year in November—I moved over there with my daughter because my husband passed away. So she said, \"You're gonna come home, you're gonna come stay with us, because we want to take care of you now.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "0b54cc70-6d0b-45d6-9252-176a6942e083"
+    },
+    {
+      "start_time": 2832,
+      "end_time": 2849,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And going to Lockhart... now I go over there, and I don’t want to come out. Once I go home, you know? And being over there, like I said… now looking over there, at my dad lived over here, you know? And now I'm seeing that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        }
+      ],
+      "uuid": "b50e51b5-5ded-49b4-8ff0-d7436b890d3a"
+    },
+    {
+      "start_time": 2849,
+      "end_time": 2871,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Like I said, I grew up with my mom's side of the family, the Rangel side. Now there's my dad's side of the family's over there at Lockhart. The constable there, the deputy, the clerk over there are Goveas and they come out saying… those are family. Those are your family. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "3589c676-32ca-4d3f-8751-68971c8add6e"
+    },
+    {
+      "start_time": 2876,
+      "end_time": 2912,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, it's a lot quieter, a lot of... they said one HEB compared to fighting with everybody else over here. It just, it's, I don't know, I'm up here like, if Austin don't start chipping out, they gonna lose out a lot. You know, we're having a lot of people coming from out of state and stuff. And my thing is, they're building Austin... Obviously, when they came to Austin, they liked Austin the way it was, and now they're making Austin like San Francisco or New York, whatever, you know? All these… it's not Austin anymore. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "c81cc884-022f-414c-b577-2d10d4448793"
+    },
+    {
+      "start_time": 2912,
+      "end_time": 2922,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So these people coming in and making it like those, I said, \"Well, if they like the way their city was, then they need to go back to the city and leave Austin alone.\" That's how I feel. [laughs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        }
+      ],
+      "uuid": "7003c459-cace-4238-9027-537474fab7e5"
+    },
+    {
+      "start_time": 2923,
+      "end_time": 2943,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What would have to change, or what would have to happen for people who live in Austin to remember what Austin was? To remember people like your dad, to remember the community activists you mentioned, who are no longer with us? What would have to change for us to start remembering what Austin was and maintain that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interview Commentary",
+          "category": "Meta"
+        }
+      ],
+      "uuid": "7dcf46d7-0991-4215-8f56-b5a0ef65b93d"
+    },
+    {
+      "start_time": 2943,
+      "end_time": 2957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What needs to change, I think, is that they need to stop making all these high rises they finished up. And stop making all these condos and start bringing these families back. Because we're losing our families."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "f138a5f4-8de2-4886-9f1f-ba899b5153a5"
+    },
+    {
+      "start_time": 2958,
+      "end_time": 3008,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, here in Austin, they done lost their families. Because all these high risers that they're making downtown, the city is getting packed with cars instead of… back then we used to use bicycles. Not everybody had bicycles, but we used to go, \"Hey, we're going to go pick up so and so.\" We used to go with our bikes, going down the street. We were coming down the road... I used to pick up my friend... they used to live over there by Seventh Street, Seventh and Pleasant Valley, so drive the bike over to where I lived over here off Galette. And then we used to go around to Govalle Park and go pick up my other friends. You know, ride bikes. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Past v. Present"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "tag": "City Geography",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "4eb7ae8b-2930-4e29-b5b1-1505ae76c96f"
+    },
+    {
+      "start_time": 3009,
+      "end_time": 3032,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We would leave our bikes outside. Didn't have to worry about anybody taking them, everybody knew \"that was so and so's bike,\" that's... and back then, when we had a bike, we used to go to the fire station and get license plates. And I think that that needs to come back with all these bicycles. think they need to start getting license plates on those bicycles. That might help."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "40c66d46-a638-49dc-b2ad-179e3cffc9fb"
+    },
+    {
+      "start_time": 3033,
+      "end_time": 3047,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because right now, seeing like the bikes have more right in the street than we do, and we're paying insurance. Our insurance keep going up higher and higher, but we the cars have barely any space to drive, to go down the street."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Privilege",
+          "category": "Community"
+        }
+      ],
+      "uuid": "bc085c19-6a30-4c25-8d3b-8774988ea2ed"
+    },
+    {
+      "start_time": 3048,
+      "end_time": 3066,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I think that they need to stop trying to build Austin like San Francisco and New York and stuff like that, and make it back to our family city that we used to have. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "a52f761a-cd80-4c3a-ace5-f8c32d677367"
+    },
+    {
+      "start_time": 3069,
+      "end_time": 3123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You done ran our deers and our raccoons and all that out of Austin because you don't have no more. They said the woods… that was their home. So, when you start tearing down… See, when you started making the toll road, when they started clearing up all that the woods and stuff like that, you would see the deers and all them coming out. You go at a Krieg Fields back there, where you have all the deer... you can still see them at nighttime, so they come out, you know, out into the to the ballpark. Because when I worked there at nighttime, I used to see them all the time, coming out. But you're taking their home away and running our little critters away. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality/Env't Indicator"
+        },
+        {
+          "tag": "Natural Beauty",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "a9fd6957-9ac1-4d35-8604-28b239595556"
+    },
+    {
+      "start_time": 3125,
+      "end_time": 3152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's family coming in, there's a lot of them have dogs now. And you see, it's weird because I tell the kids, I said, \"Now you see family walking their dogs instead of walking the kids,\" you know? And then it's becoming the dog park instead of the kid’s park. It's a big difference."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Human Health",
+          "category": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "1bcbdc42-fb3e-495f-89f7-db124407845f"
+    },
+    {
+      "start_time": 3152,
+      "end_time": 3186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We grew up with a big family. Now you don't see families go around. And to me, it’s sad that our neighborhoods are being threatened for these gentrifications. That they're coming in, like I said, there's no more playgrounds. They're making these justifications, but yet, there's not even parking for the cars. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Personal",
+          "category": "Memory"
+        },
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Past v. Present"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        }
+      ],
+      "uuid": "99fd2aba-c628-464b-a6c8-621638e6ad27"
+    },
+    {
+      "start_time": 3187,
+      "end_time": 3215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have eight buildings... eight apartments together, so each one of them gonna have at least four people that's going to be able to drive, so where you gonna put all those cars? There's no more space for like we used to say the “slip and slide” outside, and the making your mud pies outside for the dirt because there's no more dirt. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "ed6a10ae-e381-4d09-8aa6-839e88f8e18b"
+    },
+    {
+      "start_time": 3229,
+      "end_time": 3237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don’t know, I just wish that they would quit building, and that justification, because they're moving our families away. They are slowly moving our families away."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spirit",
+          "category": "Community"
+        },
+        {
+          "tag": "Infrastructure",
+          "category": "Land(scape)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Past v. Present"
+        }
+      ],
+      "uuid": "c35e4baa-a36d-4fa1-860b-79124f090719"
+    }
+  ],
   "set": "Default",
   "event_id": "16e77e59-2d0c-43d6-8166-8044897f1597",
   "source_id": "75e88d32-f584-4755-ba58-3a489fe356a7"
