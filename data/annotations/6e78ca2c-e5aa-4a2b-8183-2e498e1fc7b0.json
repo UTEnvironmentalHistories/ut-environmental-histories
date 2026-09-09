@@ -2301,12 +2301,12 @@
           "category": "Memory"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Water Quality/Env't Indicator"
-        },
-        {
           "tag": "Natural Beauty",
           "category": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality-Env't Indicator"
         }
       ],
       "uuid": "c1ea71ec-a840-48ee-9af8-56950759ea09"
