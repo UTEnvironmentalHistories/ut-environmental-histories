@@ -2684,12 +2684,12 @@
           "tag": "Env't Health"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Water Quality/Env't Indicator"
-        },
-        {
           "tag": "Human Health",
           "category": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Water Quality-Env't Indicator"
         }
       ],
       "uuid": "e2853653-6472-4970-ac35-9385a383b22f"
