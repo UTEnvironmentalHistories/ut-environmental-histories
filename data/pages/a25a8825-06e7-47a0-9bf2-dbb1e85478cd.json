@@ -37,10 +37,10 @@
   "created_at": "2025-10-08T20:49:47.750Z",
   "created_by": "UTEnvironmentalHistories",
   "title": "Ground Truth Initiative",
-  "updated_at": "2026-09-09T19:19:30.750Z",
+  "updated_at": "2026-09-09T19:19:36.363Z",
   "updated_by": "raymondhyser",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   },
   "slug": "ground-truth-initiative"
