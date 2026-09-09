@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "75e88d32-f584-4755-ba58-3a489fe356a7": {
+      "label": "Interview with Geneva Govea",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://ia601609.us.archive.org/7/items/final-audio-geneva-g/FINAL%20AUDIO_Geneva%20G.mp3",
+      "duration": 3237
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Interview with Geneva Govea",
+  "created_at": "2026-09-09T15:47:28.481Z",
+  "created_by": "UTEnvironmentalHistories",
+  "updated_at": "2026-09-09T15:47:28.481Z",
+  "updated_by": "UTEnvironmentalHistories"
+}

@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "fd87a520-3313-45c5-a92c-efe01e03e268": {
+      "label": "Interview with Linda Tristan Perez",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://dn721905.ca.archive.org/0/items/linda-tp-july-282026-edited/LindaTP_July282026_EDITED.mp3",
+      "duration": 3297
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Interview with Linda Tristan Perez",
+  "created_at": "2026-09-09T15:47:28.481Z",
+  "created_by": "UTEnvironmentalHistories",
+  "updated_at": "2026-09-09T15:47:28.481Z",
+  "updated_by": "UTEnvironmentalHistories"
+}

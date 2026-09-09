@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "bac5f167-65fc-44eb-9811-90e2e98848b5": {
+      "label": "Interview with the Riveras",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://ia600509.us.archive.org/20/items/gilberto-r-dec-152025-edited/Gilberto_R_Dec152025_EDITED.m4a",
+      "duration": 3545
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Interview with the Riveras",
+  "created_at": "2026-09-09T15:47:28.481Z",
+  "created_by": "UTEnvironmentalHistories",
+  "updated_at": "2026-09-09T15:47:28.481Z",
+  "updated_by": "UTEnvironmentalHistories"
+}

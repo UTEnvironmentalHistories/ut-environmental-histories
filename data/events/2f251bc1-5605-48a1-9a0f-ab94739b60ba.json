@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "9e76d815-cef4-4074-919e-3ab724bb2e0a": {
+      "label": "Interview with Limon Cousins",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://ia601907.us.archive.org/1/items/final-audio-limon-cousins/FINAL%20AUDIO_Limon%20Cousins.mp3",
+      "duration": 3042
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Interview with Limon Cousins",
+  "created_at": "2026-09-09T15:47:28.481Z",
+  "created_by": "UTEnvironmentalHistories",
+  "updated_at": "2026-09-09T15:47:28.481Z",
+  "updated_by": "UTEnvironmentalHistories"
+}

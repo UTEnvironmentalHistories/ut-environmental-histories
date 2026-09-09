@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "494e9c44-d811-4726-822f-9fd260c64854": {
+      "label": "Interview with Rosewood Crew",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://ia600506.us.archive.org/7/items/rosewood-crew-july-302026-edited/RosewoodCrew_July302026_EDITED.wav",
+      "duration": 4489
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Interview with Rosewood Crew",
+  "created_at": "2026-09-09T15:47:28.481Z",
+  "created_by": "UTEnvironmentalHistories",
+  "updated_at": "2026-09-09T15:47:28.481Z",
+  "updated_by": "UTEnvironmentalHistories"
+}
