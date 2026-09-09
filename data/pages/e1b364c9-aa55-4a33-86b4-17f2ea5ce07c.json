@@ -35,10 +35,10 @@
   "created_by": "UTEnvironmentalHistories",
   "title": "Interview with Griselda Rodriguez",
   "slug": "interview-with-griselda-rodriguez",
-  "updated_at": "2026-09-09T14:08:38.494Z",
-  "updated_by": "UTEnvironmentalHistories",
+  "updated_at": "2026-09-09T19:20:02.266Z",
+  "updated_by": "raymondhyser",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "c2976f4c-7ccf-451a-9fd2-0d63d9e276e3"
   }
